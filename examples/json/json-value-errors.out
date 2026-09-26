@@ -1,0 +1,13 @@
+   NULL_ON_ERROR    DFLT
+________________ _______
+                      -1
+
+Error starting at line : 7
+In command -
+select json_value('{"points":"many"}', '$.points' returning number error on error) as strict
+from   dual
+Error at Command Line : 8 Column : 8
+Error report -
+SQL Error: ORA-03302: (ORA-01722 details) invalid string value: many
+ORA-61724: unable to convert value selected by JSON path '$.points'
+ORA-01722: unable to convert string value containing 'm' to a number:

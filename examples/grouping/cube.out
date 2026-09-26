@@ -1,0 +1,16 @@
+STATUS       CABIN          TICKETS
+____________ ___________ __________
+CANCELLED    BUSINESS            18
+CANCELLED    ECONOMY             35
+CANCELLED                        53
+COMPLETED    BUSINESS           180
+COMPLETED    ECONOMY            563
+COMPLETED                       743
+CONFIRMED    BUSINESS            72
+CONFIRMED    ECONOMY            201
+CONFIRMED                       273
+             BUSINESS           270
+             ECONOMY            799
+                               1069
+
+12 rows selected.

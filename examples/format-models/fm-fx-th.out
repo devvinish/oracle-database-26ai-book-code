@@ -1,0 +1,7 @@
+PADDED          FILL_MODE    SPELLED           ORDINAL
+_______________ ____________ _________________ __________
+March     05    March 5      Fifth of March    05TH
+
+LENIENT
+______________
+05-MAR-2026

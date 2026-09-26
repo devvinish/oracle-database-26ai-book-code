@@ -1,0 +1,7 @@
+AIRPORT_XML
+____________________________________
+<airport code="DXB" hub="TRUE">
+  <city>Dubai</city>
+  <timeZone>Asia/Dubai</timeZone>
+  <elevation>62</elevation>
+</airport>

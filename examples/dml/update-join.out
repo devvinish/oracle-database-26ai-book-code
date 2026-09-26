@@ -1,0 +1,8 @@
+2 rows updated.
+
+   TICKET_ID      FARE
+____________ _________
+         500    153.51
+         501     160.4
+
+Rollback complete.

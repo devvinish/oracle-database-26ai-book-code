@@ -1,0 +1,18 @@
+PARAMETER                 VALUE
+_________________________ ____________
+NLS_CHARACTERSET          AL32UTF8
+NLS_LANGUAGE              AMERICAN
+NLS_NCHAR_CHARACTERSET    AL16UTF16
+NLS_TERRITORY             AMERICA
+
+Session geändert.
+
+DATUM                     ZAHL
+_________________________ __________________
+Sonntag, 15. März 2026       1.234.567,89
+
+Session altered.
+
+DAY                       NUM
+_________________________ __________________
+Sunday, March 15, 2026       1,234,567.89

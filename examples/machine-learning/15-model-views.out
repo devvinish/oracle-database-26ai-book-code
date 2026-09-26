@@ -1,0 +1,13 @@
+SETTING_NAME            SETTING_VALUE
+_______________________ _____________________
+ALGO_NAME               ALGO_DECISION_TREE
+PREP_AUTO               ON
+TREE_IMPURITY_METRIC    TREE_IMPURITY_GINI
+TREE_TERM_MAX_DEPTH     5
+
+ATTRIBUTE_NAME    ATTRIBUTE_TYPE    USAGE_TYPE    TARGET
+_________________ _________________ _____________ _________
+CABIN             CATEGORICAL       ACTIVE        YES
+DAYS_AHEAD        NUMERICAL         ACTIVE        NO
+POINTS            NUMERICAL         ACTIVE        NO
+TIER              CATEGORICAL       ACTIVE        NO

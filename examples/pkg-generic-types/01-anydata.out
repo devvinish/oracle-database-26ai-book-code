@@ -1,0 +1,19 @@
+Table FLIGHT_ATTRIBUTES created.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+Commit complete.
+
+NAME             TYPE_NAME       VALUE
+________________ _______________ _______________
+delay_minutes    SYS.NUMBER      45
+gate             SYS.VARCHAR2    B12
+boarding         SYS.DATE        15-MAR 21:30
+
+delay: 45 minutes
+
+PL/SQL procedure successfully completed.

@@ -1,0 +1,9 @@
+Function KM_TO_MILES compiled
+
+Function AIRPORT_CITY compiled
+
+ORIGIN    CITY         DISTANCE_KM    MILES
+_________ _________ ______________ ________
+DXB       Dubai               5497     3416
+LHR       London              5497     3416
+DXB       Dubai               5239     3255

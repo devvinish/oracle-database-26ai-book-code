@@ -1,0 +1,5 @@
+count 1069, min 118.51, max 6334.82
+mean 1057.79, median 651.08, stddev 1080.83
+quantile 25 438.99, quantile 75 1242.87
+
+PL/SQL procedure successfully completed.

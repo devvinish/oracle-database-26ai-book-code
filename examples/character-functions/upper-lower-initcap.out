@@ -1,0 +1,8 @@
+UPPER_CITY    LOWER_NAME                           INITCAP_NAME
+_____________ ____________________________________ ____________________________
+SÃO PAULO     são paulo/guarulhos international    O. R. Tambo International
+
+LAST_NAME       INITCAP         NLS_UPPER    XGERMAN
+_______________ _______________ ____________ __________
+van der Berg    Van Der Berg    STRAßE       STRASSE
+O'Brien         O'Brien         STRAßE       STRASSE

@@ -1,0 +1,11 @@
+   DEPARTMENT_ID LAST_NAME    HIRE_DATE      FIRST_HIRED    LAST_HIRED    SECOND_HIRED
+________________ ____________ ______________ ______________ _____________ _______________
+              50 Mehta        01-SEP-2015    Mehta          Schmidt       Reddy
+              50 Reddy        06-JUN-2016    Mehta          Schmidt       Reddy
+              50 Williams     18-FEB-2019    Mehta          Schmidt       Reddy
+              50 Schmidt      04-SEP-2023    Mehta          Schmidt       Reddy
+              60 Okafor       01-FEB-2016    Okafor         Mensah        Costa
+              60 Costa        29-JAN-2018    Okafor         Mensah        Costa
+              60 Mensah       09-MAY-2022    Okafor         Mensah        Costa
+
+7 rows selected.

@@ -1,0 +1,14 @@
+Table AMOUNTS created.
+
+1 row inserted.
+
+     PRICE    ROUNDED                                      ANYTHING
+__________ __________ _____________________________________________
+   1234.57      12300    0.3333333333333333333333333333333333333333
+
+Error starting at line : 5
+In command -
+insert into amounts (price) values (123456.78)
+Error at Command Line : 5 Column : 37
+Error report -
+SQL Error: ORA-01438: value 123456.78 greater than specified precision (7, 2) for column

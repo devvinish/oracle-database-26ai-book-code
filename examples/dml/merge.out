@@ -1,0 +1,7 @@
+3 rows merged.
+
+   ROUTE_ID ORIGIN    DESTINATION       BLOCK_MINUTES
+___________ _________ ______________ ________________
+          1 DXB       LHR                         395
+          3 DXB       CDG                         383
+         99 DXB       KTM                         250

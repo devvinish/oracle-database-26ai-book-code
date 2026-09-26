@@ -1,0 +1,10 @@
+union               DXB LHR SIN LHR LHR SYD
+union distinct      DXB LHR SIN SYD
+intersect           LHR
+except              DXB SIN LHR
+set                 DXB LHR SIN
+SIN member of a? yes
+a is a set? no
+b submultiset of a? no
+
+PL/SQL procedure successfully completed.

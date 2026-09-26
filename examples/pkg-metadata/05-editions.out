@@ -1,0 +1,28 @@
+User EBR_DEMO created.
+
+User EBR_DEMO altered.
+
+Grant succeeded.
+
+Function EBR_DEMO.FARE_TAX compiled
+
+Edition RELEASE_2 created.
+
+Session altered.
+
+Function EBR_DEMO.FARE_TAX compiled
+
+EDITION         TAX
+____________ ______
+RELEASE_2         7
+
+Session altered.
+
+EDITION        TAX
+___________ ______
+ORA$BASE         5
+
+OBJECT_NAME    EDITION_NAME    STATUS
+______________ _______________ _________
+FARE_TAX       ORA$BASE        VALID
+FARE_TAX       RELEASE_2       VALID

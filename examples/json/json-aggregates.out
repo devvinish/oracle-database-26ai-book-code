@@ -1,0 +1,12 @@
+NETWORK
+______________________________________________________
+{"origin":"SIN","destinations":["DXB","NRT","SYD"]}
+{"origin":"SYD","destinations":["AKL","DXB","SIN"]}
+
+AVG_FARE_BY_CABIN
+__________________________________
+{"ECONOMY":641,"BUSINESS":2290}
+
+INDIAN_AIRPORTS
+______________________
+["BLR","BOM","DEL"]

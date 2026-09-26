@@ -1,0 +1,12 @@
+Table CREW_PAIRS created.
+
+1 row inserted.
+
+1 row inserted.
+
+Commit complete.
+
+   EMPLOYEE_ID    PARTNER_ID
+______________ _____________
+           112           116
+           116           112

@@ -1,0 +1,15 @@
+1 row inserted.
+
+Commit complete.
+
+   FOUND_BEFORE_SYNC
+____________________
+                   0
+
+PL/SQL procedure successfully completed.
+
+   FOUND_AFTER_SYNC
+___________________
+                  1
+
+PL/SQL procedure successfully completed.

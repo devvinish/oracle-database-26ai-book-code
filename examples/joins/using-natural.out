@@ -1,0 +1,11 @@
+COUNTRY_CODE    CITY         COUNTRY_NAME
+_______________ ____________ _______________
+IN              Mumbai       India
+IN              Delhi        India
+IN              Bengaluru    India
+
+COUNTRY_CODE    CITY           COUNTRY_NAME
+_______________ ______________ ________________
+US              New York       United States
+US              Chicago        United States
+US              Los Angeles    United States

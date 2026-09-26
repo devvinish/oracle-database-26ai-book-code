@@ -1,0 +1,3 @@
+caught by the enclosing block: ORA-06502: PL/SQL: value or conversion error: character string buffer too small
+
+PL/SQL procedure successfully completed.

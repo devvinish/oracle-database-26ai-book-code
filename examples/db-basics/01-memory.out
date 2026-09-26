@@ -1,0 +1,14 @@
+NAME                      MB
+____________________ _______
+Maximum SGA Size        1529
+Buffer Cache Size        944
+Shared Pool Size         528
+Large Pool Size           16
+Redo Buffers               4
+Java Pool Size             0
+
+6 rows selected.
+
+   PGA_TARGET_MB
+________________
+             512

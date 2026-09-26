@@ -1,0 +1,9 @@
+Trigger CUSTOMERS_NORMALIZE_TRG compiled
+
+1 row inserted.
+
+EMAIL                   JOINED_ON
+_______________________ ______________
+ana.ruiz@example.com    26-SEP-2026
+
+Rollback complete.

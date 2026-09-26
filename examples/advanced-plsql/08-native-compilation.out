@@ -1,0 +1,5 @@
+Procedure SHOW_BUILD altered.
+
+NAME          TYPE         PLSQL_CODE_TYPE       PLSQL_OPTIMIZE_LEVEL
+_____________ ____________ __________________ _______________________
+SHOW_BUILD    PROCEDURE    NATIVE                                   2

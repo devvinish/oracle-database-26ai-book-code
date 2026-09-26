@@ -1,0 +1,15 @@
+PL/SQL procedure successfully completed.
+
+ResultSet #1
+
+   FLIGHTS
+----------
+      2856
+
+ResultSet #2
+
+STATUS              N
+---------- ----------
+ARRIVED          2268
+CANCELLED          50
+SCHEDULED         538

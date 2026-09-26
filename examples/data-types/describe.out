@@ -1,0 +1,11 @@
+Name                   Null?       Type
+______________________ ___________ ______________________________
+FLIGHT_ID              NOT NULL    NUMBER
+FLIGHT_NO              NOT NULL    VARCHAR2(6)
+ROUTE_ID               NOT NULL    NUMBER
+TAIL_NUMBER            NOT NULL    VARCHAR2(8)
+SCHEDULED_DEPARTURE    NOT NULL    TIMESTAMP(6) WITH TIME ZONE
+SCHEDULED_ARRIVAL      NOT NULL    TIMESTAMP(6) WITH TIME ZONE
+ACTUAL_DEPARTURE                   TIMESTAMP(6) WITH TIME ZONE
+ACTUAL_ARRIVAL                     TIMESTAMP(6) WITH TIME ZONE
+STATUS                 NOT NULL    VARCHAR2(10)

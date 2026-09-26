@@ -1,0 +1,6 @@
+   CUSTOMER_ID MEMBER_ID    TIER       POINTS SEAT        FAV_NO AIRPORT
+______________ ____________ _______ _________ ________ _________ __________
+             1 NM100037     Blue         3296 aisle            1 CDG
+             1 NM100037     Blue         3296 aisle            2 JNB
+             1 NM100037     Blue         3296 aisle            3 NBO
+             2 NM100074     Blue         7823 any              1 SYD

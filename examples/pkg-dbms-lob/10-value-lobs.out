@@ -1,0 +1,8 @@
+{"flight":"NA417"}, length 18
+
+declare
+*
+ERROR at line 1:
+ORA-24822: operation not allowed for value LOBs
+ORA-06512: at "SYS.DBMS_LOB", line 1864
+ORA-06512: at line 7

@@ -1,0 +1,13 @@
+FLIGHT_NO    DAY       STATUS       PREVIOUS_STATUS    NEXT_STATUS    GAP
+____________ _________ ____________ __________________ ______________ ______________________
+NM105        01-JAN    ARRIVED                         ARRIVED
+NM105        02-JAN    ARRIVED      ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        03-JAN    ARRIVED      ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        04-JAN    ARRIVED      ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        05-JAN    ARRIVED      ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        06-JAN    ARRIVED      ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        07-JAN    ARRIVED      ARRIVED            CANCELLED      +01 00:00:00.000000
+NM105        08-JAN    CANCELLED    ARRIVED            ARRIVED        +01 00:00:00.000000
+NM105        09-JAN    ARRIVED      CANCELLED          none           +01 00:00:00.000000
+
+9 rows selected.

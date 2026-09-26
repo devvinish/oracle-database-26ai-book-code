@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=utf-8
+Connection: close
+
+Gate B12: boarding from 21:30
+Lounge: open until 23:00
+Wi-Fi: NimbusGuest
+
+PL/SQL procedure successfully completed.

@@ -1,0 +1,12 @@
+Session altered.
+
+   CON_ID CON_NAME    OPEN MODE     RESTRICTED
+_________ ___________ _____________ _____________
+        2 PDB$SEED    READ ONLY     NO
+        3 FREEPDB1    READ WRITE    NO
+
+   CON_ID NAME        OPEN_MODE
+_________ ___________ _____________
+        1 CDB$ROOT    READ WRITE
+        2 PDB$SEED    READ ONLY
+        3 FREEPDB1    READ WRITE

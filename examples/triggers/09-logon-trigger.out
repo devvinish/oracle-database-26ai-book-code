@@ -1,0 +1,7 @@
+Trigger NIMBUS_LOGON_TRG compiled
+
+USERNAME    PROGRAM
+___________ __________
+NIMBUS      SQLcl
+
+Trigger NIMBUS_LOGON_TRG dropped.

@@ -1,0 +1,5 @@
+CREATE TABLE "NIMBUS"."AIRCRAFT": 3 columns
+CREATE TABLE "NIMBUS"."AIRCRAFT_TYPES": 6 columns
+CREATE TABLE "NIMBUS"."AIRPORTS": 8 columns
+
+PL/SQL procedure successfully completed.

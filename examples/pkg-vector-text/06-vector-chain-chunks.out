@@ -1,0 +1,5 @@
+ID    OFFSET    LEN    CHUNK
+_____ _________ ______ ________________________________________________________________
+1     1         61     Welcome aboard Nimbus Air! Your safety is our first priority.
+2     63        48     Please read the safety card in your seat pocket.
+3     112       44     Wi-Fi is available on all long-haul flights.

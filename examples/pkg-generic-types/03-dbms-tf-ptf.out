@@ -1,0 +1,11 @@
+Package MASK_PTF compiled
+
+Package Body MASK_PTF compiled
+
+Function MASK_COLS compiled
+
+   CUSTOMER_ID EMAIL_MASKED                 PHONE_MASKED
+______________ ____________________________ ___________________
+             1 di***.*****@*******.***      +9** ** *** ****
+             2 ra**.******@*******.***      +9* ** *** ****
+             3 lu***.*******@*******.***    +4* ** *** ****

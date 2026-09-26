@@ -1,0 +1,10 @@
+ELAPSED_HOUR
+________________________________________
+08-MAR-2026 03:30:00 AMERICA/NEW_YORK
+
+Error starting at line : 6
+In command -
+select timestamp '2026-03-08 02:30:00 America/New_York' as in_the_gap from dual
+Error at Command Line : 6 Column : 18
+Error report -
+SQL Error: ORA-01878: specified field not found in datetime or interval

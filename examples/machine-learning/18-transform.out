@@ -1,0 +1,16 @@
+PL/SQL procedure successfully completed.
+
+COL                VAL BIN
+_____________ ________ ______
+DAYS_AHEAD           1
+DAYS_AHEAD       23.75 1
+DAYS_AHEAD        46.5 2
+DAYS_AHEAD       69.25 3
+DAYS_AHEAD          92 4
+
+BIN       TICKETS
+______ __________
+1             428
+2             267
+3             266
+4             108

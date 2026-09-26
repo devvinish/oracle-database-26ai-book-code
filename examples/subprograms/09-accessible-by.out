@@ -1,0 +1,7 @@
+Procedure AUDIT_WRITE compiled
+
+  audit_write('called from an anonymous block');
+  *
+ERROR at line 2:
+ORA-06550: line 2, column 3:
+PLS-00904: insufficient privilege to access object AUDIT_WRITE

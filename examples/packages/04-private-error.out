@@ -1,0 +1,6 @@
+Error starting at line : 1
+In command -
+select booking_api.capacity(2800) from dual
+Error at Command Line : 1 Column : 8
+Error report -
+SQL Error: ORA-00904: "BOOKING_API"."CAPACITY": invalid identifier

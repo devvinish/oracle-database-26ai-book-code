@@ -1,0 +1,7 @@
+Table VIEW_SOURCE created.
+
+1 row inserted.
+
+VIEW_NAME      TEXT
+______________ ________________________________________________________
+BUSY_ROUTES    select route_id from routes where distance_km > 10000

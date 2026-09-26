@@ -1,0 +1,8 @@
+DIRECTORY_NAME    DIRECTORY_PATH
+_________________ ___________________________
+NIMBUS_FILES      /opt/oracle/nimbus_files
+
+PRIVILEGE
+____________
+READ
+WRITE

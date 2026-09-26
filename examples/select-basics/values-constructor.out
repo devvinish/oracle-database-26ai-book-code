@@ -1,0 +1,10 @@
+CABIN          FACTOR
+___________ _________
+BUSINESS         1.25
+ECONOMY             1
+PREMIUM           1.1
+
+CABIN          FACTOR    TICKETS
+___________ _________ __________
+ECONOMY             1        799
+BUSINESS         1.25        270

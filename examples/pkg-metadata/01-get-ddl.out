@@ -1,0 +1,23 @@
+PL/SQL procedure successfully completed.
+
+DDL
+___________________________________________________________
+
+  CREATE TABLE "NIMBUS"."COUNTRIES"
+   (	"COUNTRY_CODE" CHAR(2),
+	"COUNTRY_NAME" VARCHAR2(60) NOT NULL ENABLE,
+	"REGION" VARCHAR2(30) NOT NULL ENABLE,
+	"CURRENCY_CODE" CHAR(3) NOT NULL ENABLE,
+	 CONSTRAINT "COUNTRIES_PK" PRIMARY KEY ("COUNTRY_CODE")
+  USING INDEX  ENABLE
+   ) ;
+
+INDEXES
+_____________________________________________________________________________________
+
+  CREATE UNIQUE INDEX "NIMBUS"."TICKETS_PK" ON "NIMBUS"."TICKETS" ("TICKET_ID")
+  ;
+  CREATE INDEX "NIMBUS"."TICKETS_BOOKING_IX" ON "NIMBUS"."TICKETS" ("BOOKING_ID")
+  ;
+  CREATE INDEX "NIMBUS"."TICKETS_FLIGHT_IX" ON "NIMBUS"."TICKETS" ("FLIGHT_ID")
+  ;

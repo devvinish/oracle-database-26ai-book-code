@@ -1,0 +1,10 @@
+Table DOCUMENTS created.
+
+1 row inserted.
+
+1 row inserted.
+
+   ID    BODY_LEN    IMAGE_LEN BODY_STATE
+_____ ___________ ____________ _____________
+    1           0            0 empty LOB
+    2                          NULL

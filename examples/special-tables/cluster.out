@@ -1,0 +1,12 @@
+Cluster ROUTE_CLUSTER created.
+
+Index ROUTE_CLUSTER_IX created.
+
+Table ROUTE_HEADERS created.
+
+Table ROUTE_FLIGHTS created.
+
+TABLE_NAME       CLUSTER_NAME
+________________ ________________
+ROUTE_HEADERS    ROUTE_CLUSTER
+ROUTE_FLIGHTS    ROUTE_CLUSTER

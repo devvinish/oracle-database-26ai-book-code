@@ -1,0 +1,5 @@
+AIRPORT_CODE       ELEVATION_FT IS_HIGH    HUB_OR_INDIA    IS_TRUE_TEST
+_______________ _______________ __________ _______________ _______________
+BLR                        3002 true       true            true
+DXB                          62 false      true            false
+LHR                          83 false      false           false

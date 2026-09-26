@@ -1,0 +1,7 @@
+CURRENT_USER    SESSION_USER    CONTAINER    DB_NAME     SERVICE     LANGUAGE
+_______________ _______________ ____________ ___________ ___________ ____________________________
+NIMBUS          NIMBUS          FREEPDB1     FREEPDB1    freepdb1    AMERICAN_AMERICA.AL32UTF8
+
+SID    MODULE    IP           IS_DBA
+______ _________ ____________ _________
+70     SQLcl     127.0.0.1    FALSE

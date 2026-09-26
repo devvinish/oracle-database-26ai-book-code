@@ -1,0 +1,10 @@
+   CUSTOMER_ID FIRST_NAME    LAST_NAME
+______________ _____________ _______________
+            18 Mohammed      van der Berg
+            82 Sakura        Al Mansoori
+           100 Zoë           Al Mansoori
+           113 Zoë           van der Berg
+           118 Charlotte     van der Berg
+           119 Amara         van der Berg
+
+6 rows selected.

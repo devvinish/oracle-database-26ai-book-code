@@ -1,0 +1,7 @@
+version 23.0.0.0.0, compatible 23.6.0
+platform: Linux390x/Linux-2.4.x
+endianness: 2
+cluster? no, instance 1
+hash of DXB: 279
+
+PL/SQL procedure successfully completed.

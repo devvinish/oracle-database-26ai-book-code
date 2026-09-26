@@ -1,0 +1,6 @@
+RUN_START                             FLIGHTS    WORST_DELAY
+__________________________________ __________ ______________
+02-JAN-2026 02:05:00 ASIA/DUBAI             3             74
+23-JAN-2026 02:05:00 ASIA/DUBAI             2             34
+01-FEB-2026 02:05:00 ASIA/DUBAI             3             54
+08-FEB-2026 02:05:00 ASIA/DUBAI             2             82

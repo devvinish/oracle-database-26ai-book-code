@@ -1,0 +1,10 @@
+root:   flight
+number: NM150
+seats:  <seat>12A</seat>
+<seat>12B</seat>
+
+has to? 1
+second: 12B
+NM150: DXB to LHR
+
+PL/SQL procedure successfully completed.

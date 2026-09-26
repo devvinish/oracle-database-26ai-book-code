@@ -1,0 +1,4 @@
+transaction 3.16.1358, step 369435907075103
+after rollback: no transaction
+
+PL/SQL procedure successfully completed.

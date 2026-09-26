@@ -1,0 +1,7 @@
+Explained.
+
+OPERATION                  OPTIONS     OBJECT_NAME
+__________________________ ___________ ___________________
+SELECT STATEMENT
+HASH                       GROUP BY
+MAT_VIEW REWRITE ACCESS    FULL        ROUTE_REVENUE_MV

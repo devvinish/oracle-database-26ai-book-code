@@ -1,0 +1,23 @@
+Table CUSTOMERS_BY_REGION created.
+
+120 rows inserted.
+
+Table TICKETS_HASHED created.
+
+1,069 rows inserted.
+
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+TABLE_NAME             PARTITION_NAME       NUM_ROWS
+______________________ _________________ ___________
+CUSTOMERS_BY_REGION    P_ASIA                     28
+CUSTOMERS_BY_REGION    P_EUROPE                   40
+CUSTOMERS_BY_REGION    P_OTHER                    52
+TICKETS_HASHED         SYS_P1642                 248
+TICKETS_HASHED         SYS_P1643                 260
+TICKETS_HASHED         SYS_P1644                 281
+TICKETS_HASHED         SYS_P1645                 280
+
+7 rows selected.

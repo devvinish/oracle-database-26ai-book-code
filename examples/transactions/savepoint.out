@@ -1,0 +1,13 @@
+1 row updated.
+
+Savepoint created.
+
+564 rows deleted.
+
+Rollback complete.
+
+   SALARY_161    CREW_ROWS
+_____________ ____________
+         8900          564
+
+Rollback complete.

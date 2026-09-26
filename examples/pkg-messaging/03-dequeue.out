@@ -1,0 +1,5 @@
+NM150: gate A1 -> B12 (priority 1)
+NM101: gate C3 -> C5 (priority 5)
+queue is empty
+
+PL/SQL procedure successfully completed.

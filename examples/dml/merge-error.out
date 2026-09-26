@@ -1,0 +1,9 @@
+Error starting at line : 1
+In command -
+merge into routes r
+using fare_changes c on (r.route_id = c.route_id)
+when matched then update set r.block_minutes = c.block_minutes
+Error at Command Line : 2 Column : 7
+Error report -
+SQL Error: ORA-30926: The operation attempted to update the same row (rowid:
+'AAAUepAAAAAAAUNAAA') twice.

@@ -1,0 +1,4 @@
+AIRPORT_CODE    ROWID                    OBJECT_NO    FILE_NO    BLOCK_NO    ROW_NO    TYPE
+_______________ _____________________ ____________ __________ ___________ _________ _______
+DXB             AAAUejAAAAAAATdAAA           83875          0        1245         0       1
+LHR             AAAUejAAAAAAATdAAB           83875          0        1245         1       1

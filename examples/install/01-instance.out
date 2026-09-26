@@ -1,0 +1,7 @@
+INSTANCE_NAME    VERSION_FULL    STATUS    DATABASE_STATUS
+________________ _______________ _________ __________________
+FREE             23.26.3.0.0     OPEN      ACTIVE
+
+NAME    CDB    OPEN_MODE     LOG_MODE
+_______ ______ _____________ _____________
+FREE    YES    READ WRITE    ARCHIVELOG

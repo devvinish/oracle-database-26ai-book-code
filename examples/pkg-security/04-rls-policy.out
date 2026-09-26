@@ -1,0 +1,19 @@
+Context AGENT_CTX created.
+
+Procedure SET_AGENT_COUNTRY compiled
+
+Function AGENT_COUNTRY_FILTER compiled
+
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+   CUSTOMERS COUNTRY
+____________ __________
+           8 IN
+
+PL/SQL procedure successfully completed.
+
+   CUSTOMERS COUNTRY
+____________ __________
+           7 AE

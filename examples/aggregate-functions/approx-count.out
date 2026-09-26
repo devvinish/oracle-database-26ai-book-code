@@ -1,0 +1,13 @@
+   EXACT_CUSTOMERS    APPROX_CUSTOMERS    APPROX_REFS
+__________________ ___________________ ______________
+               120                 119            691
+
+   ROUTE_ID    FLIGHTS
+___________ __________
+         27         90
+         24         90
+         23         90
+
+CABIN            REVENUE
+___________ ____________
+BUSINESS       618345.79

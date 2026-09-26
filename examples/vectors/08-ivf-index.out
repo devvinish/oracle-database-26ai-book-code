@@ -1,0 +1,13 @@
+Vector INDEX created.
+
+INDEX_NAME                  INDEX_TYPE    INDEX_SUBTYPE
+___________________________ _____________ __________________________
+SYS_IL0000083974C00003$$    LOB
+AIRPORT_VECTORS_IVF         VECTOR        NEIGHBOR_PARTITIONS_IVF
+
+AIRPORT_CODE
+_______________
+KTM
+DEL
+BOM
+BLR

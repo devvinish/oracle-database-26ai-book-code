@@ -1,0 +1,9 @@
+PL/SQL procedure successfully completed.
+
+JOB_NAME                  MESSAGE
+_________________________ ________________________
+NIGHTLY_STATUS_CLEANUP    538 flights scheduled
+
+JOB_NAME                  STATUS          ERROR# RUN_DURATION
+_________________________ ____________ _________ ______________________
+NIGHTLY_STATUS_CLEANUP    SUCCEEDED            0 +00 00:00:00.000000

@@ -1,0 +1,21 @@
+LAST_NAME       SORT_KEY
+_______________ _____________________________
+Al Mansoori     616C206D616E736F6F726900
+Aziz            617A697A00
+Okafor          6F6B61666F7200
+Okafor          6F6B61666F7200
+Zhang           7A68616E6700
+van der Berg    76616E20646572206265726700
+
+6 rows selected.
+
+LAST_NAME
+_______________
+Al Mansoori
+Aziz
+Okafor
+Okafor
+van der Berg
+Zhang
+
+6 rows selected.

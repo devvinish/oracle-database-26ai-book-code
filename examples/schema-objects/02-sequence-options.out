@@ -1,0 +1,22 @@
+Sequence GATE_SEQ created.
+
+   CALL_NO    GATE
+__________ _______
+         1       1
+         2       2
+         3       3
+         4       1
+         5       2
+
+Sequence BOOKING_REF_SEQ altered.
+
+Sequence BOOKING_REF_SEQ altered.
+
+   AFTER_RESTART
+________________
+            5000
+
+SEQUENCE_NAME         INCREMENT_BY CYCLE_FLAG       CACHE_SIZE    LAST_NUMBER
+__________________ _______________ _____________ _____________ ______________
+BOOKING_REF_SEQ                 10 N                        20           5200
+GATE_SEQ                         1 Y                         0              3

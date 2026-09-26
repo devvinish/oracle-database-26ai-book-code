@@ -1,0 +1,11 @@
+Function KM_TO_MILES dropped.
+
+Function AIRPORT_CITY dropped.
+
+Function FARE_WITH_TAX dropped.
+
+Procedure SPLIT_NAME dropped.
+
+Procedure RAISE_SALARY dropped.
+
+Function FLIGHT_MINUTES dropped.

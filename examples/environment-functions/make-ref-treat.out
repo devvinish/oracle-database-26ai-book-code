@@ -1,0 +1,18 @@
+Type T_PERSON compiled
+
+Type T_PILOT compiled
+
+Table PEOPLE created.
+
+1 row inserted.
+
+1 row inserted.
+
+NAME             LICENCE       KIND      TYPE_ID
+________________ _____________ _________ __________
+Emma Williams                  person    01
+Kenji Sato       ATPL-40771    pilot     02
+
+FOUND_BY_KEY
+_______________
+Kenji Sato

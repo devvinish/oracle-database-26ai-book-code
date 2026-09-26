@@ -1,0 +1,15 @@
+Trigger ROUTES_AUDIT_TRG compiled
+
+1 row inserted.
+
+1 row updated.
+
+1 row deleted.
+
+ACTION       ROUTE_ID DETAIL
+_________ ___________ _____________
+INSERT             71 DXB-KTM
+UPDATE              1 400 -> 405
+DELETE             71
+
+Rollback complete.

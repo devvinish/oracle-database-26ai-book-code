@@ -1,0 +1,9 @@
+Lock succeeded.
+
+declare
+*
+ERROR at line 1:
+ORA-00054: Failed to acquire a lock (Type: "TM", Name: "DML", Description: "Synchronizes accesses to an object") because it is currently held by another session. The resource being locked can be identified by 84233 ("Table") and 0 ("operation")
+ORA-06512: at line 4
+
+Rollback complete.

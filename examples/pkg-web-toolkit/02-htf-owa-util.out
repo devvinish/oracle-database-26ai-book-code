@@ -1,0 +1,7 @@
+<a href="https://nimbus.example/flights/NM150">NM150</a>
+Fares &lt; $500 &amp; &quot;no fees&quot;
+query string: flight=NM150&lang=en
+user agent:   Mozilla/5.0
+unescaped:    NM150 delayed
+
+PL/SQL procedure successfully completed.

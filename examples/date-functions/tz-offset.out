@@ -1,0 +1,14 @@
+AIRPORT_CODE    TIME_ZONE           OFFSET_TODAY
+_______________ ___________________ _______________
+JFK             America/New_York    -04:00
+LHR             Europe/London       +01:00
+DXB             Asia/Dubai          +04:00
+BOM             Asia/Kolkata        +05:30
+KTM             Asia/Kathmandu      +05:45
+SYD             Australia/Sydney    +10:00
+
+6 rows selected.
+
+PST
+____________________
+15-MAR-2026 04:00

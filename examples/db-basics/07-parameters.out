@@ -1,0 +1,10 @@
+NAME               VALUE          IN_SESSION    IN_SYSTEM    IN_PDB
+__________________ ______________ _____________ ____________ _________
+compatible         23.6.0         FALSE         IMMEDIATE    FALSE
+nls_date_format    DD-MON-YYYY    TRUE          FALSE        TRUE
+open_cursors       300            FALSE         IMMEDIATE    TRUE
+optimizer_mode     ALL_ROWS       TRUE          IMMEDIATE    TRUE
+processes          200            FALSE         IMMEDIATE    FALSE
+undo_retention     900            FALSE         IMMEDIATE    TRUE
+
+6 rows selected.

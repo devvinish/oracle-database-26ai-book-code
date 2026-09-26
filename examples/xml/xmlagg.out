@@ -1,0 +1,7 @@
+ROUTES_XML
+______________________
+<routes from="SYD">
+  <to>AKL</to>
+  <to>DXB</to>
+  <to>SIN</to>
+</routes>

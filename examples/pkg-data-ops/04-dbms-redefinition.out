@@ -1,0 +1,22 @@
+Table CREW_NOTES created.
+
+55 rows inserted.
+
+Commit complete.
+
+Table CREW_NOTES_INT created.
+
+dependents copied with 0 errors
+
+PL/SQL procedure successfully completed.
+
+COLUMN_NAME    DATA_TYPE       DATA_LENGTH
+______________ ____________ ______________
+NOTE_ID        NUMBER                   22
+EMPLOYEE_ID    NUMBER                   22
+NOTE           VARCHAR2               1000
+CREATED_ON     DATE                      7
+
+PARTITIONED       NOTES
+______________ ________
+YES                  55

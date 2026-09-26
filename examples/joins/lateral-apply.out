@@ -1,0 +1,16 @@
+AIRPORT_CODE    DESTINATION       DISTANCE_KM
+_______________ ______________ ______________
+SIN             SYD                      6294
+SIN             DXB                      5845
+SYD             DXB                     12043
+SYD             SIN                      6294
+
+AIRPORT_CODE    DESTINATION
+_______________ ______________
+KTM
+SIN             SYD
+
+AIRPORT_CODE       ROUTES
+_______________ _________
+DXB                    20
+LHR                     2

@@ -1,0 +1,19 @@
+Index CUSTOMERS_TIER_IX created.
+
+Explained.
+
+PLAN_TABLE_OUTPUT
+_______________________________________________________
+Plan hash value: 4288211797
+
+----------------------------------------------------
+| Id  | Operation              | Name              |
+----------------------------------------------------
+|   0 | SELECT STATEMENT       |                   |
+|   1 |  VIEW                  | index$_join$_001  |
+|   2 |   HASH JOIN            |                   |
+|   3 |    INDEX RANGE SCAN    | CUSTOMERS_TIER_IX |
+|   4 |    INDEX FAST FULL SCAN| CUSTOMERS_PK      |
+----------------------------------------------------
+
+11 rows selected.

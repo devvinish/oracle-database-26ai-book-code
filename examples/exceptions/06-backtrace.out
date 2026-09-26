@@ -1,0 +1,13 @@
+Procedure LOAD_FARES compiled
+
+Error:     ORA-06502: PL/SQL: value or conversion error: character to number conversion error
+Backtrace: ORA-06512: at "NIMBUS.LOAD_FARES", line 4
+ORA-06512: at line 2
+
+begin
+*
+ERROR at line 1:
+ORA-06502: PL/SQL: value or conversion error: character to number conversion error
+ORA-06512: at line 7
+ORA-06512: at "NIMBUS.LOAD_FARES", line 4
+ORA-06512: at line 2

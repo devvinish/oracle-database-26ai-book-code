@@ -1,0 +1,3 @@
+USER         UID INVOKING_USER    INVOKING_ID    LANG       SESSION_ID
+_________ ______ ________________ ______________ _______ _____________
+NIMBUS       150 NIMBUS           150            US             361208

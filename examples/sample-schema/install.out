@@ -1,0 +1,23 @@
+Creating the tables...
+Loading the data...
+Gathering optimizer statistics...
+Nimbus Air is installed.
+
+TABLE_NAME             NUM_ROWS
+___________________ ___________
+AIRCRAFT                     16
+AIRCRAFT_TYPES                5
+AIRPORTS                     22
+BOOKINGS                    700
+COUNTRIES                    19
+CREW_ASSIGNMENTS          11224
+CUSTOMERS                   120
+DEPARTMENTS                  10
+EMPLOYEES                    55
+FLIGHTS                    2856
+PAYMENTS                    726
+REVIEWS                      90
+ROUTES                       50
+TICKETS                    1069
+
+14 rows selected.

@@ -1,0 +1,16 @@
+Table MONTHLY_CUSTOMERS created.
+
+MONTH             CUSTOMERS
+______________ ____________
+01-OCT-2025               7
+01-NOV-2025              59
+01-DEC-2025              83
+01-JAN-2026             102
+01-FEB-2026              86
+01-MAR-2026              52
+
+6 rows selected.
+
+   ALL_MONTHS
+_____________
+          119

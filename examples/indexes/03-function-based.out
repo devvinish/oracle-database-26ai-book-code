@@ -1,0 +1,19 @@
+Index CUSTOMERS_LAST_NAME_UPPER_IX created.
+
+PL/SQL procedure successfully completed.
+
+Explained.
+
+PLAN_TABLE_OUTPUT
+_______________________________________________________________________________
+Plan hash value: 998004927
+
+----------------------------------------------------------------------------
+| Id  | Operation                           | Name                         |
+----------------------------------------------------------------------------
+|   0 | SELECT STATEMENT                    |                              |
+|   1 |  TABLE ACCESS BY INDEX ROWID BATCHED| CUSTOMERS                    |
+|   2 |   INDEX RANGE SCAN                  | CUSTOMERS_LAST_NAME_UPPER_IX |
+----------------------------------------------------------------------------
+
+9 rows selected.

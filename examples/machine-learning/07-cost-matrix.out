@@ -1,0 +1,21 @@
+Table CABIN_COSTS created.
+
+4 rows inserted.
+
+Commit complete.
+
+PL/SQL procedure successfully completed.
+
+PREDICTED       TICKETS    AVG_COST_IF_BUSINESS
+____________ __________ _______________________
+ECONOMY             525                    0.99
+BUSINESS            544                   0.504
+
+ACTUAL      PREDICTED       COST
+___________ ____________ _______
+BUSINESS    BUSINESS           0
+BUSINESS    ECONOMY            5
+ECONOMY     BUSINESS           1
+ECONOMY     ECONOMY            0
+
+PL/SQL procedure successfully completed.

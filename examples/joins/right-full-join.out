@@ -1,0 +1,16 @@
+COUNTRY_CODE    COUNTRY_NAME      AIRPORT_CODE
+_______________ _________________ _______________
+DE              Germany           FRA
+FR              France            CDG
+GB              United Kingdom    LHR
+IE              Ireland
+NL              Netherlands       AMS
+TR              Türkiye           IST
+
+6 rows selected.
+
+CODE    COUNTRY_NAME    AIRPORT_CODE
+_______ _______________ _______________
+AU      Australia       SYD
+NZ      New Zealand
+JP                      NRT

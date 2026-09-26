@@ -1,0 +1,23 @@
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+CONSTRAINT_NAME        CONSTRAINT_TYPE    STATUS      VALIDATED        DEFERRABLE
+______________________ __________________ ___________ ________________ _________________
+FARE_RULES_CABIN_CK    C                  ENABLED     VALIDATED        NOT DEFERRABLE
+FARE_RULES_DATES_CK    C                  DISABLED    NOT VALIDATED    NOT DEFERRABLE
+FARE_RULES_FARE_CK     C                  ENABLED     NOT VALIDATED    NOT DEFERRABLE
+FARE_RULES_PK          P                  ENABLED     VALIDATED        NOT DEFERRABLE
+FARE_RULES_ROUTE_FK    R                  ENABLED     VALIDATED        NOT DEFERRABLE
+FARE_RULES_UK          U                  ENABLED     VALIDATED        NOT DEFERRABLE
+SYS_C0016233           C                  ENABLED     VALIDATED        NOT DEFERRABLE
+SYS_C0016234           C                  ENABLED     VALIDATED        NOT DEFERRABLE
+SYS_C0016235           C                  ENABLED     VALIDATED        NOT DEFERRABLE
+SYS_C0016236           C                  ENABLED     VALIDATED        NOT DEFERRABLE
+SYS_C0016245           C                  ENABLED     VALIDATED        NOT DEFERRABLE
+
+11 rows selected.
+
+Table FARE_RULES altered.

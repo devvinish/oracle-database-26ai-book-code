@@ -1,0 +1,6 @@
+ACTUAL      PREDICTED       TICKETS
+___________ ____________ __________
+BUSINESS    BUSINESS             33
+BUSINESS    ECONOMY              13
+ECONOMY     BUSINESS              9
+ECONOMY     ECONOMY             158

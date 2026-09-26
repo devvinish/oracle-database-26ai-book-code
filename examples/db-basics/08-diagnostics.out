@@ -1,0 +1,5 @@
+NAME          VALUE
+_____________ _________________________________________
+ADR Home      /opt/oracle/diag/rdbms/free/FREE
+Diag Alert    /opt/oracle/diag/rdbms/free/FREE/alert
+Diag Trace    /opt/oracle/diag/rdbms/free/FREE/trace

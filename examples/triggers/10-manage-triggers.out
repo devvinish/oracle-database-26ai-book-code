@@ -1,0 +1,14 @@
+Trigger EMPLOYEES_SALARY_TRG altered.
+
+Table CUSTOMERS altered.
+
+TRIGGER_NAME               TRIGGER_TYPE       TRIGGERING_EVENT    STATUS
+__________________________ __________________ ___________________ ___________
+CUSTOMERS_NORMALIZE_TRG    BEFORE EACH ROW    INSERT OR UPDATE    DISABLED
+EMPLOYEES_SALARY_TRG       AFTER EACH ROW     UPDATE              DISABLED
+
+Table CUSTOMERS altered.
+
+Trigger EMPLOYEES_SALARY_TRG dropped.
+
+Trigger CUSTOMERS_NORMALIZE_TRG dropped.

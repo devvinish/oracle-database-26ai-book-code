@@ -1,0 +1,14 @@
+LAST_NAME       DEPARTMENT_ID    SALARY
+____________ ________________ _________
+Haddad                     10     48000
+Clarke                     20     27000
+Rahman                     30     22000
+Evans                      40     34000
+Mehta                      50     33000
+Okafor                     60     29000
+Fernández                  70     23000
+Smith                      80     15800
+Chen                       90     12000
+Nguyen                    100     21500
+
+10 rows selected.

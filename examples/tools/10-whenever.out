@@ -1,0 +1,15 @@
+Error starting at line : 2
+In command -
+select * from no_such_table
+Error at Command Line : 2 Column : 15
+Error report -
+SQL Error: ORA-00942: table or view "NIMBUS"."NO_SUCH_TABLE" does not exist
+still running after the error
+
+Error starting at line : 5
+In command -
+select * from no_such_table
+Error at Command Line : 5 Column : 15
+Error report -
+SQL Error: ORA-00942: table or view "NIMBUS"."NO_SUCH_TABLE" does not exist
+Rollback

@@ -1,0 +1,5 @@
+PL/SQL procedure successfully completed.
+
+REPEAT_INTERVAL                         MAX_FAILURES MAX_RUN_DURATION       LOGGING_LEVEL
+____________________________________ _______________ ______________________ ________________
+FREQ=DAILY; BYHOUR=3; BYMINUTE=15                  3 +00 00:10:00.000000    FULL

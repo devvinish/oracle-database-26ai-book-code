@@ -1,0 +1,17 @@
+Materialized view log TICKETS created.
+
+Materialized view CABIN_TOTALS_MV created.
+
+CABIN            REVENUE
+___________ ____________
+BUSINESS       618345.79
+ECONOMY        512432.86
+
+1 row updated.
+
+Commit complete.
+
+CABIN            REVENUE
+___________ ____________
+BUSINESS       618345.79
+ECONOMY        512532.86

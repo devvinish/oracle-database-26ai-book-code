@@ -1,0 +1,17 @@
+PL/SQL procedure successfully completed.
+
+   TICKET_ID PREDICTION    PROBABILITY            COST
+____________ _____________ ______________________ ______________________
+         850 ECONOMY       0.7692307692307693     0.23076923076923073
+         850 BUSINESS      0.23076923076923078    0.7692307692307692
+
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+MODEL_NAME
+____________________
+CABIN_CLASS
+CUSTOMER_FEATURES
+CUSTOMER_SEGMENTS
+FARE_GLM

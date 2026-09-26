@@ -1,0 +1,6 @@
+   LEVEL PATH                  CYCLE
+________ __________________ ________
+       1 AKL>SYD                   0
+       2 AKL>SYD>AKL               1
+       2 AKL>SYD>SIN               1
+       3 AKL>SYD>SIN>NRT           1

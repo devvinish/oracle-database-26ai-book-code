@@ -1,0 +1,11 @@
+Table AIRPORT_CODES_IOT created.
+
+22 rows inserted.
+
+TABLE_NAME           IOT_TYPE
+____________________ ___________
+AIRPORT_CODES_IOT    IOT
+
+INDEX_NAME           INDEX_TYPE
+____________________ _____________
+SYS_IOT_TOP_84260    IOT - TOP

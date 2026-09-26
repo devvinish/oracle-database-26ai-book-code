@@ -1,0 +1,8 @@
+FLIGHT_NO    ROUTE      DEPARTS_LOCAL                          DEPARTS_UTC
+____________ __________ ______________________________________ ___________________________
+NM145        SIN-NRT    04-JAN-2026 10:45:00 ASIA/SINGAPORE    04-JAN-2026 02:45:00 UTC
+NM102        LHR-DXB    04-JAN-2026 03:10:00 EUROPE/LONDON     04-JAN-2026 03:10:00 UTC
+
+FLIGHT_NO    ARRIVES_LOCAL                      IN_INDIA
+____________ __________________________________ ____________________________________
+NM102        04-JAN-2026 13:50:00 ASIA/DUBAI    04-JAN-2026 15:20:00 ASIA/KOLKATA

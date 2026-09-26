@@ -1,0 +1,21 @@
+TRANSFORMED
+__________________________________
+{
+  "tier" : "Blue",
+  "points" : 50000,
+  "memberSince" : "2021-08-17",
+  "preferences" :
+  {
+    "seat" : "aisle",
+    "meal" : "standard"
+  },
+  "favoriteAirports" :
+  [
+    "CDG",
+    "JNB",
+    "NBO",
+    "SIN"
+  ],
+  "id" : "NM100037",
+  "upgraded" : true
+}

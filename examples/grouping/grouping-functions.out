@@ -1,0 +1,18 @@
+REGION         COUNTRY       GID    AIRPORTS
+______________ __________ ______ ___________
+Oceania        AU              0           1
+Africa         KE              0           1
+Oceania        NZ              0           1
+Africa         ZA              0           1
+Oceania        All             1           2
+Africa         All             1           2
+All regions    All             3           4
+
+7 rows selected.
+
+COUNTRY_CODE       AIRPORTS    GID
+_______________ ___________ ______
+IN                        3      0
+US                        3      0
+IN                        3      1
+US                        3      1

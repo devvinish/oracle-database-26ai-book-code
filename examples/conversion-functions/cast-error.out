@@ -1,0 +1,6 @@
+Error starting at line : 1
+In command -
+select cast('2026-03-15' as date) as iso_text from dual
+Error at Command Line : 1 Column : 13
+Error report -
+SQL Error: ORA-01861: literal does not match format string

@@ -1,0 +1,7 @@
+Error starting at line : 1
+In command -
+select ora_dst_affected(timestamp '2026-03-15 10:00:00 Europe/London') as affected
+from   dual
+Error at Command Line : 1 Column : 8
+Error report -
+SQL Error: ORA-30091: secondary translation table not loaded

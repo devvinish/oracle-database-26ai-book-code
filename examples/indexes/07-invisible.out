@@ -1,0 +1,36 @@
+Index BOOKINGS_BOOKED_AT_IX altered.
+
+Explained.
+
+PLAN_TABLE_OUTPUT
+_________________________________________
+Plan hash value: 2518249199
+
+--------------------------------------
+| Id  | Operation         | Name     |
+--------------------------------------
+|   0 | SELECT STATEMENT  |          |
+|   1 |  TABLE ACCESS FULL| BOOKINGS |
+--------------------------------------
+
+8 rows selected.
+
+Session altered.
+
+Explained.
+
+PLAN_TABLE_OUTPUT
+________________________________________________________________________
+Plan hash value: 2041864784
+
+---------------------------------------------------------------------
+| Id  | Operation                           | Name                  |
+---------------------------------------------------------------------
+|   0 | SELECT STATEMENT                    |                       |
+|   1 |  TABLE ACCESS BY INDEX ROWID BATCHED| BOOKINGS              |
+|   2 |   INDEX RANGE SCAN                  | BOOKINGS_BOOKED_AT_IX |
+---------------------------------------------------------------------
+
+9 rows selected.
+
+Index BOOKINGS_BOOKED_AT_IX altered.

@@ -1,0 +1,13 @@
+status: 7 (7 = FINISHED)
+
+PL/SQL procedure successfully completed.
+
+STATUS          CHUNKS
+____________ _________
+PROCESSED            6
+
+   TICKETS    RECALCULATED
+__________ _______________
+      1069            1069
+
+PL/SQL procedure successfully completed.

@@ -1,0 +1,19 @@
+Table TICKETS altered.
+
+OBJECT_NAME    OBJECT_TYPE     STATUS
+______________ _______________ __________
+BOOKING_API    PACKAGE         VALID
+BOOKING_API    PACKAGE BODY    INVALID
+
+   SEATS
+________
+       0
+
+booking_api initialized
+
+OBJECT_NAME    OBJECT_TYPE     STATUS
+______________ _______________ _________
+BOOKING_API    PACKAGE         VALID
+BOOKING_API    PACKAGE BODY    VALID
+
+Table TICKETS altered.

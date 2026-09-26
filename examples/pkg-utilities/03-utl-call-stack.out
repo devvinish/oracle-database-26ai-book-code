@@ -1,0 +1,12 @@
+Procedure WHERE_AM_I compiled
+
+Package TRIP_PLANNER compiled
+
+Package Body TRIP_PLANNER compiled
+
+1: WHERE_AM_I line 4
+2: TRIP_PLANNER.CHECK_ROUTE line 2
+3: TRIP_PLANNER.PLAN line 3
+4: __anonymous_block line 1
+
+PL/SQL procedure successfully completed.

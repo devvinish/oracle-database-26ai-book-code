@@ -1,0 +1,10 @@
+   DEPARTMENT_ID LAST_NAME       SALARY
+________________ ____________ _________
+              20 Clarke           27000
+              20 Sato             25500
+              30 Rahman           22000
+              30 Taylor           11800
+              40 Evans            34000
+              40 Kapoor           21000
+
+6 rows selected.

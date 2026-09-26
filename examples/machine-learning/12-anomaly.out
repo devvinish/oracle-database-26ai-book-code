@@ -1,0 +1,8 @@
+PL/SQL procedure successfully completed.
+
+   TICKET_ID    DAYS_AHEAD    DISTANCE_KM    POINTS    P_ANOMALY
+____________ _____________ ______________ _________ ____________
+         621            13           2183    222444        0.607
+         995             4           1926    156380        0.576
+         809            18           2183    223601        0.573
+         934             1           5239    222444        0.568

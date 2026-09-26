@@ -1,0 +1,14 @@
+LAST_NAME       DEPARTMENT_ID    COMMISSION_PCT
+____________ ________________ _________________
+Gupta                      40              0.12
+Tanaka                     40              0.12
+Hussain                    40               0.1
+Johnson                    40               0.1
+Khan                       40              0.05
+Patel                      40              0.05
+Thompson                   40              0.05
+Evans                      40
+Kapoor                     40
+Martínez                   40
+
+10 rows selected.

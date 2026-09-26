@@ -1,0 +1,8 @@
+View ML_TICKETS created.
+
+   TICKET_ID CABIN      TIER       POINTS    DAYS_AHEAD    DISTANCE_KM    LEGS    AGE
+____________ __________ _______ _________ _____________ ______________ _______ ______
+           1 ECONOMY    Blue         3303            74           4844       1     56
+           4 ECONOMY    Blue         3296            65           7979       1     54
+           3 ECONOMY    Blue         3694            86           1137       2     30
+           2 ECONOMY    Blue         3694            68           1137       2     30

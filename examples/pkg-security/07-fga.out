@@ -1,0 +1,19 @@
+Procedure LOG_DOB_ACCESS compiled
+
+PL/SQL procedure successfully completed.
+
+   COUNT(*)
+___________
+          8
+
+MAX(DATE_OF_BIRTH)
+_____________________
+12-JUN-2001
+
+MAX(DATE_OF_BIRTH)
+_____________________
+13-JUN-2002
+
+DB_USER    SQL_TEXT
+__________ _____________________________________________________________________
+NIMBUS     select max(date_of_birth) from customers where country_code = 'IN'

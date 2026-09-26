@@ -1,0 +1,6 @@
+Error starting at line : 1
+In command -
+select last_name from employees where row_number() over (order by salary desc) <= 3
+Error at Command Line : 1 Column : 39
+Error report -
+SQL Error: ORA-30483: window  functions are not allowed here

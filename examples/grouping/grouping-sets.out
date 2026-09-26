@@ -1,0 +1,12 @@
+   DEPARTMENT_ID BASE_AIRPORT       STAFF
+________________ _______________ ________
+              20                       12
+              40                       10
+                 BOM                    1
+                 DXB                   15
+                 LHR                    2
+                 NRT                    1
+                 SIN                    3
+                                       22
+
+8 rows selected.

@@ -1,0 +1,9 @@
+Index TICKETS_FLIGHT_SEAT_UX created.
+
+INDEX_NAME                UNIQUENESS    COLUMN_NAME       COLUMN_POSITION
+_________________________ _____________ ______________ __________________
+TICKETS_BOOKING_IX        NONUNIQUE     BOOKING_ID                      1
+TICKETS_FLIGHT_IX         NONUNIQUE     FLIGHT_ID                       1
+TICKETS_FLIGHT_SEAT_UX    UNIQUE        FLIGHT_ID                       1
+TICKETS_FLIGHT_SEAT_UX    UNIQUE        SEAT_NO                         2
+TICKETS_PK                UNIQUE        TICKET_ID                       1

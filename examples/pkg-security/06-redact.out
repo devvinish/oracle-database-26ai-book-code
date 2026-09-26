@@ -1,0 +1,17 @@
+PL/SQL procedure successfully completed.
+
+   CUSTOMER_ID EMAIL               PHONE               DATE_OF_BIRTH
+______________ ___________________ ___________________ ________________
+             1 xxxx@example.com    ********414 1147    01-JAN-2001
+             2 xxxx@example.com    ********99 2343     01-JAN-2001
+             3 xxxx@example.com    ********59 4746     01-JAN-2001
+
+PL/SQL procedure successfully completed.
+
+   CUSTOMER_ID EMAIL                        PHONE               DATE_OF_BIRTH
+______________ ____________________________ ___________________ ________________
+             1 diego.lopez@example.com      +971 22 414 1147    20-JUL-1971
+             2 ravi.taylor@example.com      +91 82 899 2343     02-FEB-1973
+             3 lucia.laurent@example.com    +44 20 559 4746     15-MAR-1979
+
+PL/SQL procedure successfully completed.

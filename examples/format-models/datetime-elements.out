@@ -1,0 +1,33 @@
+ELEMENT    RESULT
+__________ _________________________
+YYYY       2026
+YY         26
+RRRR       2026
+YEAR       TWENTY TWENTY-SIX
+Q          1
+MM         03
+MON        MAR
+Month      March
+WW         11
+IW         11
+W          3
+DDD        074
+DD         15
+D          1
+DY         SUN
+Day        Sunday
+J          2461115
+HH         04
+HH24       16
+MI         05
+SS         09
+SSSSS      57909
+FF3        123
+AM         PM
+TZR        ASIA/KOLKATA
+TZH:TZM    +05:30
+TZD        IST
+DL         Sunday, March 15, 2026
+TS         4:05:09 PM
+
+29 rows selected.

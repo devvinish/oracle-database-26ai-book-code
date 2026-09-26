@@ -1,0 +1,8 @@
+Tablespace NIMBUS_ARCHIVE created.
+
+User NIMBUS altered.
+
+TABLESPACE_NAME       QUOTA_MB
+__________________ ___________
+NIMBUS_ARCHIVE             100
+USERS                        0

@@ -1,0 +1,23 @@
+PL/SQL procedure successfully completed.
+
+CACHE_STATUS
+_______________
+ENABLED
+
+   DXB_ROUTES
+_____________
+           20
+
+   DXB_ROUTES
+_____________
+           20
+
+STATUS          REUSED
+____________ _________
+Published            1
+
+PL/SQL procedure successfully completed.
+
+STATUS        REUSED
+__________ _________
+Invalid            1

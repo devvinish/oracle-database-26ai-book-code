@@ -1,0 +1,18 @@
+PL/SQL procedure successfully completed.
+
+   COUNT(*)
+___________
+        171
+
+   COUNT(*)
+___________
+        270
+
+STAT_NAME              RECORDED
+______________________ ___________
+DB time                yes
+execute count          yes
+parse count (total)    yes
+user calls             yes
+
+PL/SQL procedure successfully completed.

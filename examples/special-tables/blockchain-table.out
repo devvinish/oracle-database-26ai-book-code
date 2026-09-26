@@ -1,0 +1,11 @@
+Blockchain TABLE created.
+
+3 rows inserted.
+
+Commit complete.
+
+   PAYMENT_ID    AMOUNT    CHAIN    SEQ    HASH_BYTES
+_____________ _________ ________ ______ _____________
+            1    513.01        6      1           128
+            2    255.73        6      2           128
+            3    662.86        6      3           128

@@ -1,0 +1,3 @@
+OPERATION      NEW_VALUE    PATCHED
+______________ ____________ __________________________________________________________
+update-node    650          <fare><amount>650</amount><cabin>ECONOMY</cabin></fare>

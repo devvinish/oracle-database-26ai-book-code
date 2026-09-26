@@ -1,0 +1,13 @@
+View PENDING_UPGRADES created.
+
+OBJECT_NAME         STATUS
+___________________ __________
+PENDING_UPGRADES    INVALID
+
+Table UPGRADE_REQUESTS created.
+
+View PENDING_UPGRADES altered.
+
+OBJECT_NAME         STATUS
+___________________ _________
+PENDING_UPGRADES    VALID

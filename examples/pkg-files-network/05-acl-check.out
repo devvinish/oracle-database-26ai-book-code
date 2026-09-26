@@ -1,0 +1,15 @@
+HOST                       LOWER_PORT    UPPER_PORT PRIVILEGE    STATUS
+_______________________ _____________ _____________ ____________ __________
+*                                                   RESOLVE      GRANTED
+example.com                                         HTTP         GRANTED
+host.docker.internal             8099          8099 CONNECT      GRANTED
+host.docker.internal             2525          2525 CONNECT      GRANTED
+host.docker.internal             8099          8099 HTTP         GRANTED
+
+MATCHING_ACL_HOSTS
+__________________________
+api.flights.example.com
+*.flights.example.com
+*.example.com
+*.com
+*

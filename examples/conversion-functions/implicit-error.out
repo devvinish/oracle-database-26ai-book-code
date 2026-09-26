@@ -1,0 +1,7 @@
+Error starting at line : 1
+In command -
+select customer_id from customers where phone = 971224141147
+Error at Command Line : 1 Column : 41
+Error report -
+SQL Error: ORA-01722: unable to convert string value containing '8' to a number: PHONE
+ORA-03302: (ORA-01722 details) invalid string value: +1 82 767 1245

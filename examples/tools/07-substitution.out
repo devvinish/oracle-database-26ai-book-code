@@ -1,0 +1,15 @@
+old:select destination, distance_km from routes where origin = '&origin'
+new:select destination, distance_km from routes where origin = 'SYD'
+
+DESTINATION       DISTANCE_KM
+______________ ______________
+AKL                      2159
+DXB                     12043
+SIN                      6294
+
+old:select count(*) as flights from flights where route_id = &&route_no
+new:select count(*) as flights from flights where route_id = 5
+
+   FLIGHTS
+__________
+        90

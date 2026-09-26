@@ -1,0 +1,14 @@
+ROLE
+_______________________
+CTXAPP
+DB_DEVELOPER_ROLE
+HS_ADMIN_SELECT_ROLE
+RESOURCE
+SELECT_CATALOG_ROLE
+SODA_APP
+
+6 rows selected.
+
+   SYSTEM_PRIVILEGES
+____________________
+                  38

@@ -1,0 +1,16 @@
+Domain PHONE_D created.
+
+Table CREW_CONTACTS created.
+
+1 row inserted.
+
+   EMPLOYEE_ID MOBILE              SHOWN
+______________ ___________________ ___________________
+           112 +971 50 123 4567    +971-50-123-4567
+
+Error starting at line : 11
+In command -
+insert into crew_contacts (employee_id, mobile) values (113, '050 123 4567')
+Error report -
+ORA-11534: check constraint (NIMBUS.SYS_C0016279) involving column MOBILE due to
+domain constraint NIMBUS.PHONE_D_CK of domain NIMBUS.PHONE_D violated

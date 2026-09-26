@@ -1,0 +1,13 @@
+GENERATED
+___________________________________
+<?xml version="1.0"?>
+<AIRPORT_CODE>AKL</AIRPORT_CODE>
+
+AGGREGATED
+_____________________________________
+<?xml version="1.0"?>
+<ROWSET>
+  <AIRPORT_CODE>BOM</AIRPORT_CODE>
+  <AIRPORT_CODE>DEL</AIRPORT_CODE>
+  <AIRPORT_CODE>BLR</AIRPORT_CODE>
+</ROWSET>

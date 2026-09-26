@@ -1,0 +1,29 @@
+View CUSTOMER_DV created.
+
+DOC
+___________________________________________________
+{
+  "_id" : 37,
+  "_metadata" :
+  {
+    "etag" : "9E97A7F3E42189439B2ADFA8B1C9A695",
+    "asof" : "00000000004948F2"
+  },
+  "name" : "Fernández",
+  "email" : "hugo.fernandez@example.com",
+  "bookings" :
+  [
+    {
+      "bookingId" : 325,
+      "ref" : "FH2FHM",
+      "status" : "COMPLETED",
+      "total" : 285.37
+    },
+    {
+      "bookingId" : 671,
+      "ref" : "YWBLH7",
+      "status" : "CONFIRMED",
+      "total" : 1089.08
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Table CODES created.
+
+1 row inserted.
+
+CHAR_VALUE    VARCHAR2_VALUE       CHAR_LEN    VARCHAR2_LEN
+_____________ _________________ ___________ _______________
+[NM   ]       [NM]                        5               2
+
+   MATCHES
+__________
+         0
+
+   MATCHES
+__________
+         1

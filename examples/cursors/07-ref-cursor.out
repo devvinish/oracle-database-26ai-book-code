@@ -1,0 +1,7 @@
+Function FLIGHTS_ON compiled
+
+PL/SQL procedure successfully completed.
+
+FLIGHT DEPARTS                                STATUS
+------ -------------------------------------- ----------
+NM101  02:05 ASIA/DUBAI                       ARRIVED

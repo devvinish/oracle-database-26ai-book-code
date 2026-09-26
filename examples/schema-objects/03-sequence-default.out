@@ -1,0 +1,8 @@
+Table GATE_CHANGES created.
+
+2 rows inserted.
+
+   CHANGE_ID    FLIGHT_ID NEW_GATE
+____________ ____________ ___________
+        5010         2800 B12
+        5020         2801 C4

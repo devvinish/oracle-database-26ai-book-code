@@ -1,0 +1,10 @@
+economy has Wi-Fi?   yes
+business only:       0C
+either cabin:        0F
+not in economy:      FC
+1000, big-endian:    000003E8
+1000, little-endian: E8030000
+and back:            1000
+NUMBER 2.5 inside:   C10333
+
+PL/SQL procedure successfully completed.

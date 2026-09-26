@@ -1,0 +1,6 @@
+FROM_WEEK      BOTTOM_WEEK    TO_WEEK        LAST_STEP       MATCH_NO
+______________ ______________ ______________ ____________ ___________
+17-NOV-2025    01-DEC-2025    15-DEC-2025    UP                     1
+15-DEC-2025    22-DEC-2025    05-JAN-2026    UP                     2
+05-JAN-2026    26-JAN-2026    02-FEB-2026    UP                     3
+02-FEB-2026    02-MAR-2026    09-MAR-2026    UP                     4

@@ -1,0 +1,7 @@
+Table FARE_RULES created.
+
+1 row inserted.
+
+   RULE_ID    ROUTE_ID CABIN      VALID_FROM        BASE_FARE REFUNDABLE
+__________ ___________ __________ ______________ ____________ _____________
+         1           1 ECONOMY    01-APR-2026             520 false

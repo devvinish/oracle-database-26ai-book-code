@@ -1,0 +1,17 @@
+REGION    COUNTRY_CODE       AIRPORTS
+_________ _______________ ___________
+Asia      HK                        1
+Asia      IN                        3
+Asia      JP                        1
+Asia      NP                        1
+Asia      SG                        1
+Asia                                7
+Europe    DE                        1
+Europe    FR                        1
+Europe    GB                        1
+Europe    NL                        1
+Europe    TR                        1
+Europe                              5
+                                   12
+
+13 rows selected.

@@ -1,0 +1,5 @@
+Table FARE_RULES altered.
+
+   RULE_ID    BASE_FARE    FARE_WITH_TAX SEASON
+__________ ____________ ________________ _________
+         1          520              546 OTHER

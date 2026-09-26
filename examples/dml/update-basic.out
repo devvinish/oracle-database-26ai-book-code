@@ -1,0 +1,10 @@
+4 rows updated.
+
+   EMPLOYEE_ID LAST_NAME       SALARY
+______________ ____________ _________
+           195 Chen             12600
+           196 Iyer              5040
+           197 López             4830
+           198 Silva             4725
+
+Rollback complete.

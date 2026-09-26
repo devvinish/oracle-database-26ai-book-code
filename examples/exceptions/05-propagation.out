@@ -1,0 +1,3 @@
+outer block caught: ORA-06502: PL/SQL: value or conversion error
+
+PL/SQL procedure successfully completed.

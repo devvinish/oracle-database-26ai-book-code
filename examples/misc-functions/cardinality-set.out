@@ -1,0 +1,3 @@
+   ITEMS    DISTINCT_ITEMS SET_RESULT
+________ _________________ __________________
+       4                 3 [DXB, LHR, SIN]

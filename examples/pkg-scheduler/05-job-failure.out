@@ -1,0 +1,7 @@
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+JOB_NAME       STATUS       ERROR# ERROR
+______________ _________ _________ _____________________________________
+FAILING_JOB    FAILED        20001 ORA-20001: fuel price feed missing

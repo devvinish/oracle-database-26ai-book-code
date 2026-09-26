@@ -1,0 +1,27 @@
+REGION
+________________
+Africa
+Asia
+Europe
+Middle East
+North America
+Oceania
+South America
+
+7 rows selected.
+
+TYPE_CODE    STATUS
+____________ ______________
+A20N         ACTIVE
+A21N         ACTIVE
+A21N         MAINTENANCE
+A359         ACTIVE
+B77W         ACTIVE
+B77W         MAINTENANCE
+B789         ACTIVE
+
+7 rows selected.
+
+   BASES
+________
+       5

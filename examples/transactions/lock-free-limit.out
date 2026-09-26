@@ -1,0 +1,9 @@
+1 row updated.
+
+declare
+*
+ERROR at line 1:
+ORA-02290: check constraint (NIMBUS.SEATS_LEFT_CK) violated
+ORA-06512: at line 4
+
+Rollback complete.

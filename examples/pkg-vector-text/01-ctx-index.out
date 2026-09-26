@@ -1,0 +1,14 @@
+Table TRAVEL_NOTES created.
+
+6 rows inserted.
+
+Commit complete.
+
+PL/SQL procedure successfully completed.
+
+Index TRAVEL_NOTES_CTX created.
+
+   SCORE    NOTE_ID NOTE
+________ __________ ____________________________________________________________________________
+       4          3 Our Singapore lounge serves laksa and has a quiet room for sleeping.
+       4          1 The lounge in Dubai is open all night; showers are free for Gold members.

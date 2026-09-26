@@ -1,0 +1,9 @@
+PL/SQL procedure successfully completed.
+
+HOST                       LPORT    UPORT PRIVILEGE
+_______________________ ________ ________ ____________
+*                                         RESOLVE
+example.com                               HTTP
+host.docker.internal        8099     8099 CONNECT
+host.docker.internal        2525     2525 CONNECT
+host.docker.internal        8099     8099 HTTP

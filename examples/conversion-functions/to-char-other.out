@@ -1,0 +1,3 @@
+BOOL_TRUE    BOOL_FALSE    FROM_NCHAR    TO_NCHAR    NCHAR_DATE    NCHAR_NUM
+____________ _____________ _____________ ___________ _____________ ____________
+TRUE         FALSE         Café          Café        2026-03-15    12.5

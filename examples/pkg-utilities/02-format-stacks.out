@@ -1,0 +1,19 @@
+Procedure LEVEL_TWO compiled
+
+Procedure LEVEL_ONE compiled
+
+----- PL/SQL Call Stack -----
+  object      line  object
+  handle    number  name
+0x81763428         3  procedure NIMBUS.LEVEL_TWO
+0x9350d668         3  procedure NIMBUS.LEVEL_ONE
+0x7cdae080         2  anonymous block
+Error stack: ORA-20005: Fare table locked
+ORA-06512: at "NIMBUS.LEVEL_TWO", line 4
+ORA-06512: at "NIMBUS.LEVEL_ONE", line 3
+
+Backtrace:   ORA-06512: at "NIMBUS.LEVEL_TWO", line 4
+ORA-06512: at "NIMBUS.LEVEL_ONE", line 3
+ORA-06512: at line 2
+
+PL/SQL procedure successfully completed.

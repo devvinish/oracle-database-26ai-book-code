@@ -1,0 +1,15 @@
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+MESSAGE
+_____________________
+load fuel prices
+check fuel prices
+report fuel prices
+
+STEP           STATUS          ERROR#
+______________ ____________ _________
+LOAD_STEP      SUCCEEDED            0
+CHECK_STEP     SUCCEEDED            0
+REPORT_STEP    SUCCEEDED            0

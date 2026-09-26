@@ -1,0 +1,11 @@
+Table AIRPORTS altered.
+
+OBJECT_NAME    STATUS
+______________ __________
+V_HUBS         INVALID
+
+PL/SQL procedure successfully completed.
+
+OBJECT_NAME    STATUS
+______________ _________
+V_HUBS         VALID

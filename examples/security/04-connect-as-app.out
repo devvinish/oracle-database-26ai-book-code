@@ -1,0 +1,14 @@
+   VISIBLE_FLIGHTS
+__________________
+              2856
+
+1 row updated.
+
+Rollback complete.
+
+Error starting at line : 6
+In command -
+select count(*) from nimbus.customers
+Error at Command Line : 6 Column : 29
+Error report -
+SQL Error: ORA-00942: table or view "NIMBUS"."CUSTOMERS" does not exist

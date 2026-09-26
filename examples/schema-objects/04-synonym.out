@@ -1,0 +1,11 @@
+Synonym FL created.
+
+   FLIGHTS
+__________
+      2856
+
+SYNONYM_NAME    TABLE_OWNER    TABLE_NAME
+_______________ ______________ _____________
+FL              NIMBUS         FLIGHTS
+
+Synonym FL dropped.

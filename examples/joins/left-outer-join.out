@@ -1,0 +1,6 @@
+AIRPORT_CODE    CITY            ROUTES_FROM_HERE
+_______________ ____________ ___________________
+BLR             Bengaluru                      1
+BOM             Mumbai                         2
+DEL             Delhi                          2
+KTM             Kathmandu                      0

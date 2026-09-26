@@ -1,0 +1,7 @@
+PL/SQL procedure successfully completed.
+
+   DISTANCE_KM    PREDICTED_FARE    LOWER_95    UPPER_95
+______________ _________________ ___________ ___________
+          1137            143.69      131.69      155.69
+          5497            540.79      533.41      548.17
+         11641           1100.37     1088.97     1111.78

@@ -1,0 +1,21 @@
+Table FLIGHT_COPY created.
+
+50 rows deleted.
+
+Commit complete.
+
+   NUM_ROWS    BLOCKS
+___________ _________
+       2856        39
+
+PL/SQL procedure successfully completed.
+
+   NUM_ROWS    BLOCKS
+___________ _________
+       2806        39
+
+COLUMN_NAME       NUM_DISTINCT HISTOGRAM
+______________ _______________ ____________
+FLIGHT_ID                 2806 NONE
+ROUTE_ID                    50 NONE
+STATUS                       2 FREQUENCY

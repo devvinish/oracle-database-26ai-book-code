@@ -1,0 +1,24 @@
+Procedure BAD_PROC compiled
+
+Errors for PROCEDURE BAD_PROC:
+
+LINE/COL ERROR
+-------- -----------------------------------------------------------------
+3/3      PL/SQL: Statement ignored
+3/24     PLS-00201: identifier 'V_UNDECLARED' must be declared
+
+Errors for PROCEDURE bad_proc:
+
+LINE/COL ERROR
+-------- -----------------------------------------------------------------
+3/3      PL/SQL: Statement ignored
+3/24     PLS-00201: identifier 'V_UNDECLARED' must be declared
+
+   LINE    POSITION TEXT
+_______ ___________ ________________________________________________________
+      3          24 PLS-00201: identifier 'V_UNDECLARED' must be declared
+      3           3 PL/SQL: Statement ignored
+
+OBJECT_NAME    STATUS
+______________ __________
+BAD_PROC       INVALID

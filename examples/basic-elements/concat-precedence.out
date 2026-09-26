@@ -1,0 +1,7 @@
+Error starting at line : 2
+In command -
+select 'NM' || 100 + 1 as flight_no from dual
+Error at Command Line : 2 Column : 14
+Error report -
+SQL Error: ORA-01722: unable to convert string value containing 'N' to a number:
+ORA-03302: (ORA-01722 details) invalid string value: NM100

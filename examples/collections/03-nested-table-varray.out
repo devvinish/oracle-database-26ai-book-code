@@ -1,0 +1,5 @@
+crew: count 3, last index 4
+varray: count 2 of limit 3
+exists(2)? no
+
+PL/SQL procedure successfully completed.

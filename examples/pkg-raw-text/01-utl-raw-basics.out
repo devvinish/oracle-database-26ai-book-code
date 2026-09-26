@@ -1,0 +1,11 @@
+bytes:    4E494D425553 (6)
+text:     NIMBUS
+substr:   IMB
+reverse:  SUBMIN
+concat:   NIMBUS AIR
+overlay:  NI**US
+copies:   00FF00FF00FF
+xrange:   414243444546
+compare:  5
+
+PL/SQL procedure successfully completed.

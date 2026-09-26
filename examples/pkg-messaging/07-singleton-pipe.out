@@ -1,0 +1,8 @@
+Function FX_RATE_CACHE compiled
+
+  (cache function called)
+read 1: status 0, rate 3.6725
+read 2: status 0, rate 3.6725
+read 3: status 0, rate 3.6725
+
+PL/SQL procedure successfully completed.

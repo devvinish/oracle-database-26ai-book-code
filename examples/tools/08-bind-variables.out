@@ -1,0 +1,18 @@
+PL/SQL procedure successfully completed.
+
+ORIGIN    DESTINATION       DISTANCE_KM
+_________ ______________ ______________
+DXB       LAX                     13400
+LAX       DXB                     13400
+DXB       GRU                     12217
+GRU       DXB                     12217
+DXB       SYD                     12043
+SYD       DXB                     12043
+DXB       AKL                     14200
+AKL       DXB                     14200
+
+8 rows selected.
+
+    MIN_KM
+----------
+     12000

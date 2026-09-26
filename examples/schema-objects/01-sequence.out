@@ -1,0 +1,13 @@
+Sequence BOOKING_REF_SEQ created.
+
+   FIRST    SAME_ROW
+________ ___________
+    1000        1000
+
+   SECOND
+_________
+     1001
+
+   CURRENT_VALUE
+________________
+            1001

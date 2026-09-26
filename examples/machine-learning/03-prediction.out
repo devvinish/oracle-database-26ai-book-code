@@ -1,0 +1,10 @@
+   TICKET_ID TIER           DAYS_AHEAD ACTUAL      PREDICTED       PROBABILITY    P_BUSINESS
+____________ ___________ _____________ ___________ ____________ ______________ _____________
+          10 Silver                 72 ECONOMY     ECONOMY                   1             0
+         395 Platinum               17 ECONOMY     BUSINESS               0.83          0.83
+         540 Silver                  3 BUSINESS    ECONOMY               0.723         0.277
+         765 Platinum               20 BUSINESS    BUSINESS               0.83          0.83
+         850 Platinum               26 BUSINESS    ECONOMY               0.769         0.231
+        1005 Gold                    5 ECONOMY     BUSINESS               0.83          0.83
+
+6 rows selected.

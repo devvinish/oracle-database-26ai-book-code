@@ -1,0 +1,10 @@
+Assertion NO_CREW_ON_CANCELLED_FLIGHTS created.
+
+Error starting at line : 8
+In command -
+insert into crew_assignments (flight_id, employee_id, crew_role)
+select flight_id, 112, 'CAPTAIN' from flights where status = 'CANCELLED'
+fetch  first 1 row only
+Error at Command Line : 8 Column : 13
+Error report -
+SQL Error: ORA-08601: Assertion (NIMBUS.NO_CREW_ON_CANCELLED_FLIGHTS) violated.

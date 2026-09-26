@@ -1,0 +1,7 @@
+TYPE_CODE    AIRCRAFT                      SEATS    Range (nm)    SPEED
+____________ __________________________ ________ _____________ ________
+A20N         Airbus A320neo                  162          3402      830
+A21N         Airbus A321neo                  196          3996      830
+A359         Airbus A350-900                 325          8099      903
+B789         Boeing 787-9 Dreamliner         290          7565      903
+B77W         Boeing 777-300ER                354          7370      892

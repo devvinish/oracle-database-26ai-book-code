@@ -1,0 +1,15 @@
+LAST_NAME          SALARY    QUARTILE
+_______________ _________ ___________
+Rahman              22000           1
+Taylor              11800           1
+Okafor              11600           1
+Laurent              7200           2
+Sharma               7000           2
+van der Berg         6900           2
+Zhang                6800           3
+Aziz                 6700           3
+Bianchi              6500           3
+Brown                6400           4
+O'Brien              6200           4
+
+11 rows selected.

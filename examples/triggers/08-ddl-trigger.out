@@ -1,0 +1,12 @@
+Trigger SCHEMA_DDL_TRG compiled
+
+Table TEMP_NOTES created.
+
+Table TEMP_NOTES dropped.
+
+EVENT     OBJECT_TYPE    OBJECT_NAME
+_________ ______________ ______________
+CREATE    TABLE          TEMP_NOTES
+DROP      TABLE          TEMP_NOTES
+
+Trigger SCHEMA_DDL_TRG dropped.

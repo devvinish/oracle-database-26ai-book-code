@@ -1,0 +1,5 @@
+2 rows inserted, 2 failed
+row 2: ORA-02290: check constraint (.) violated
+row 4: ORA-02290: check constraint (.) violated
+
+PL/SQL procedure successfully completed.

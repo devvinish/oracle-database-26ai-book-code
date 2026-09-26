@@ -1,0 +1,21 @@
+   ROUTE_ID    BASE_FARE
+___________ ____________
+          1          100
+          2          100
+          3          100
+
+3 rows updated.
+
+Commit complete.
+
+   ROUTE_ID    BASE_FARE
+___________ ____________
+          1          200
+          2          200
+          3          200
+
+   ROUTE_ID    BASE_FARE
+___________ ____________
+          1          100
+          2          100
+          3          100

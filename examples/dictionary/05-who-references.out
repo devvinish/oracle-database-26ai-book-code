@@ -1,0 +1,5 @@
+TABLE_NAME          CONSTRAINT_NAME      DELETE_RULE
+___________________ ____________________ ______________
+CREW_ASSIGNMENTS    CREW_FLIGHT_FK       NO ACTION
+REVIEWS             REVIEWS_FLIGHT_FK    NO ACTION
+TICKETS             TICKETS_FLIGHT_FK    NO ACTION

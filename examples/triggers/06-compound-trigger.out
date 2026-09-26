@@ -1,0 +1,14 @@
+Trigger EMPLOYEES_CAP_TRG compiled
+
+1 row updated.
+
+Error starting at line : 21
+In command -
+update employees set salary = 50000 where employee_id = 162
+Error at Command Line : 21 Column : 8
+Error report -
+SQL Error: ORA-20101: Salary above 48000
+ORA-06512: at "NIMBUS.EMPLOYEES_CAP_TRG", line 13
+ORA-04088: error during execution of trigger 'NIMBUS.EMPLOYEES_CAP_TRG'
+
+Rollback complete.

@@ -1,0 +1,7 @@
+FLIGHT_NO       TICKETS    CHECKED_IN    PCT
+____________ __________ _____________ ______
+NM143                 1             1    100
+NM125                 2             0      0
+
+   SAFE_DIVIDE
+______________

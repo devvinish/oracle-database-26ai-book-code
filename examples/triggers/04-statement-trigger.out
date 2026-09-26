@@ -1,0 +1,10 @@
+Trigger PAYMENTS_NO_DELETE_TRG compiled
+
+Error starting at line : 7
+In command -
+delete from payments where payment_id = 1
+Error at Command Line : 7 Column : 13
+Error report -
+SQL Error: ORA-20100: Payments can't be deleted, only refunded
+ORA-06512: at "NIMBUS.PAYMENTS_NO_DELETE_TRG", line 2
+ORA-04088: error during execution of trigger 'NIMBUS.PAYMENTS_NO_DELETE_TRG'

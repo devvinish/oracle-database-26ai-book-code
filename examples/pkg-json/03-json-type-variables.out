@@ -1,0 +1,11 @@
+points: 4216
+missing key: NULL
+ORA-40866: JSON document operation was attempted on a non-scalar node.
+
+PL/SQL procedure successfully completed.
+
+TIER
+___________
+PLATINUM
+
+Rollback complete.

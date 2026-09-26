@@ -1,0 +1,14 @@
+1 row updated.
+
+COLUMN_NAME            UPDATABLE    INSERTABLE    DELETABLE
+______________________ ____________ _____________ ____________
+DESTINATION            NO           NO            NO
+FLIGHT_ID              YES          YES           YES
+FLIGHT_NO              YES          YES           YES
+ORIGIN                 NO           NO            NO
+SCHEDULED_DEPARTURE    YES          YES           YES
+STATUS                 YES          YES           YES
+
+6 rows selected.
+
+Rollback complete.

@@ -1,0 +1,18 @@
+PRETTY_LOYALTY
+__________________________________
+{
+  "memberId" : "NM100074",
+  "memberSince" : "2024-10-17",
+  "points" : 7823,
+  "tier" : "Blue",
+  "preferences" :
+  {
+    "meal" : "kosher",
+    "newsletter" : true,
+    "seat" : "any"
+  },
+  "favoriteAirports" :
+  [
+    "SYD"
+  ]
+}

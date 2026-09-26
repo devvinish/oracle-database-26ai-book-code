@@ -1,0 +1,17 @@
+PL/SQL procedure successfully completed.
+
+1 row updated.
+
+Commit complete.
+
+PL/SQL procedure successfully completed.
+
+1 row updated.
+
+Commit complete.
+
+OP       START_AFTER    END_AFTER    BLOCK_MINUTES
+_____ ______________ ____________ ________________
+                                1              400
+U                  1            4              405
+U                  4                           410

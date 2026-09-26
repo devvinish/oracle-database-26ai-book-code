@@ -1,0 +1,15 @@
+Transaction READ succeeded.
+
+   BOOKINGS
+___________
+        700
+
+Error starting at line : 3
+In command -
+update bookings set status = status where booking_id = 1
+Error at Command Line : 3 Column : 8
+Error report -
+SQL Error: ORA-01456: may not perform insert, delete, update operation inside a READ ONLY
+transaction
+
+Commit complete.

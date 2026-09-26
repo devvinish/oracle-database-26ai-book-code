@@ -1,0 +1,13 @@
+Global temporary TABLE created.
+
+2 rows inserted.
+
+   ROWS_IN_TRANSACTION
+______________________
+                     2
+
+Commit complete.
+
+   ROWS_AFTER_COMMIT
+____________________
+                   0

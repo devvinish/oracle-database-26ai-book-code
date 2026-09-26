@@ -1,0 +1,11 @@
+Table FLIGHT_LOG altered.
+
+Table FLIGHT_LOG truncated.
+
+Table FLIGHT_LOG altered.
+
+PARTITION_NAME       PARTITION_POSITION
+_________________ _____________________
+P_DEC_2025                            1
+SYS_P1638                             2
+SYS_P1639                             3

@@ -1,0 +1,15 @@
+Table AIRPORT_POINTS created.
+
+PL/SQL procedure successfully completed.
+
+INDEX_NAME            INDEX_TYPE    INDEX_SUBTYPE
+_____________________ _____________ __________________________
+AIRPORT_POINTS_IVF    VECTOR        NEIGHBOR_PARTITIONS_IVF
+
+REPORT
+__________________________________________________________________________________
+Accuracy achieved (100%) is 10% higher than the Target Accuracy requested (90%)
+
+REPORT
+_____________________________________________________________
+Accuracy achieved (100%) for NEIGHBOR PARTITION PROBES (4)

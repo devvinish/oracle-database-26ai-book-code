@@ -1,0 +1,10 @@
+4 rows updated.
+
+LAST_NAME       SALARY
+____________ _________
+Mehta            33500
+Reddy            16000
+Williams          9300
+Schmidt           8800
+
+Rollback complete.

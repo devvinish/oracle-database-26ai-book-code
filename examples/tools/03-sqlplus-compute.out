@@ -1,0 +1,14 @@
+Dept LAST_NAME     SALARY
+---- ------------ -------
+  50 Mehta         33,000
+     Reddy         15,500
+     Williams       8,800
+     Schmidt        8,300
+****              -------
+Sum                65,600
+
+  60 Okafor        29,000
+     Costa         11,200
+     Mensah         7,400
+****              -------
+Sum                47,600

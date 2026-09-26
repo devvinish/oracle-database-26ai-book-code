@@ -1,0 +1,4 @@
+ORIGIN    DESTINATIONS          HOW_MANY
+_________ __________________ ___________
+SIN       [DXB, NRT, SYD]              3
+SYD       [AKL, DXB, SIN]              3

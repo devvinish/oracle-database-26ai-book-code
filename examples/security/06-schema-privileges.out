@@ -1,0 +1,5 @@
+Grant succeeded.
+
+PRIVILEGE           SCHEMA    GRANTEE
+___________________ _________ ________________
+SELECT ANY TABLE    NIMBUS    NIMBUS_READER

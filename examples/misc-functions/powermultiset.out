@@ -1,0 +1,17 @@
+COLUMN_VALUE
+__________________
+[LHR]
+[SIN]
+[LHR, SIN]
+[SYD]
+[LHR, SYD]
+[SIN, SYD]
+[LHR, SIN, SYD]
+
+7 rows selected.
+
+COLUMN_VALUE
+_______________
+[LHR, SIN]
+[LHR, SYD]
+[SIN, SYD]

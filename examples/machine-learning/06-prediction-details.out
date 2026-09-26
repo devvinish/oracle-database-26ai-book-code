@@ -1,0 +1,6 @@
+   TICKET_ID DETAILS
+____________ ___________________________________________________________________________
+         765 <Details algorithm="Decision Tree" class="BUSINESS" node="5">
+               <Attribute name="DAYS_AHEAD" actualValue="20" weight=".29" rank="1"/>
+               <Attribute name="POINTS" actualValue="179303" weight=".278" rank="2"/>
+             </Details>

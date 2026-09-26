@@ -1,0 +1,12 @@
+"AIRPORT_CODE","CITY","ELEVATION_FT"
+"BOM","Mumbai",39
+"DEL","Delhi",777
+"BLR","Bengaluru",3002
+
+{"results":[{"columns":[{"name":"AIRPORT_CODE","type":"CHAR"},{"name":"CITY","type":"VARCHAR2"}],"items":
+[
+{"airport_code":"DXB","city":"Dubai"}
+]}]}
+REM INSERTING into COUNTRIES
+SET DEFINE OFF;
+Insert into COUNTRIES (COUNTRY_CODE,COUNTRY_NAME) values ('NP','Nepal');

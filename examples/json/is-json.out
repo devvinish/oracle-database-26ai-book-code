@@ -1,0 +1,6 @@
+V          IS_JSON    STRICT_JSON
+__________ __________ ______________
+{"a":1}    yes        yes
+{a:1}      yes        no
+[1,2       no         no
+"text"     yes        yes

@@ -1,0 +1,23 @@
+   MONTH_NO    BOOKINGS
+___________ ___________
+          1         222
+          2         154
+          3          72
+         10           7
+         11          81
+         12         164
+
+6 rows selected.
+
+Session altered.
+
+STATUS       CABIN          TICKETS
+____________ ___________ __________
+CANCELLED    BUSINESS            18
+CANCELLED    ECONOMY             35
+COMPLETED    BUSINESS           180
+COMPLETED    ECONOMY            563
+CONFIRMED    BUSINESS            72
+CONFIRMED    ECONOMY            201
+
+6 rows selected.

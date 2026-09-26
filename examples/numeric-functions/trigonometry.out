@@ -1,0 +1,5 @@
+ORIGIN    DESTINATION       STORED_KM    COMPUTED_KM
+_________ ______________ ____________ ______________
+LHR       JFK                    5540           5540
+DXB       LHR                    5497           5497
+DXB       ORD                   11641          11641

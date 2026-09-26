@@ -1,0 +1,19 @@
+Immutable TABLE created.
+
+1 row inserted.
+
+Commit complete.
+
+Error starting at line : 12
+In command -
+update fare_audit set new_fare = 999
+Error at Command Line : 12 Column : 8
+Error report -
+SQL Error: ORA-05715: operation not allowed on the blockchain or immutable table
+
+Error starting at line : 13
+In command -
+delete from fare_audit
+Error at Command Line : 13 Column : 13
+Error report -
+SQL Error: ORA-05715: operation not allowed on the blockchain or immutable table

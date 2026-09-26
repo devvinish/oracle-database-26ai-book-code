@@ -1,0 +1,10 @@
+Index PAYMENTS_ID_REV_IX created.
+
+Index PAYMENTS_PAID_DESC_IX created.
+
+INDEX_NAME               INDEX_TYPE               COLUMN_NAME     DESCEND
+________________________ ________________________ _______________ __________
+PAYMENTS_BOOKING_IX      NORMAL                   BOOKING_ID      ASC
+PAYMENTS_ID_REV_IX       NORMAL/REV               PAYMENT_ID      ASC
+PAYMENTS_ID_REV_IX       NORMAL/REV               BOOKING_ID      ASC
+PAYMENTS_PAID_DESC_IX    FUNCTION-BASED NORMAL    SYS_NC00006$    DESC

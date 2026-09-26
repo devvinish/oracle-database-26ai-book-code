@@ -1,0 +1,5 @@
+cancelled flights: 50
+ORA-04161: Error: fuel price feed missing
+  at line 5, column 11
+
+PL/SQL procedure successfully completed.

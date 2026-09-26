@@ -1,0 +1,11 @@
+Table CITY_NAMES created.
+
+1 row inserted.
+
+Error starting at line : 3
+In command -
+insert into city_names (in_bytes) values ('São Paulo')
+Error at Command Line : 3 Column : 43
+Error report -
+SQL Error: ORA-12899: value too large for column "NIMBUS"."CITY_NAMES"."IN_BYTES" (actual:
+10, maximum: 9)

@@ -1,0 +1,11 @@
+TABLE_NAME        COMMENTS
+_________________ _____________________________________________________________________________
+AIRCRAFT          The fleet: one row per aircraft, identified by its registration
+AIRCRAFT_TYPES    Aircraft models of the fleet
+AIRPORTS          Airports that Nimbus Air serves (or plans to serve), with their time zones
+BOOKINGS          Bookings (reservations); one booking has one or more tickets
+COUNTRIES         Countries of the airports and customers
+
+COLUMN_NAME    COMMENTS
+______________ ________________________________________________
+TIME_ZONE      Time zone region name, for example Asia/Dubai

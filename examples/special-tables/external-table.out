@@ -1,0 +1,8 @@
+Table FUEL_PRICES_EXT created.
+
+AIRPORT_CODE       AVG_PRICE    READINGS
+_______________ ____________ ___________
+DXB                     2.41           3
+SIN                     2.52           3
+JFK                     2.69           3
+LHR                     2.91           3

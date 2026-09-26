@@ -1,0 +1,19 @@
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+JOB_NAME
+___________
+LONG_JOB
+
+begin
+*
+ERROR at line 1:
+ORA-27475: unknown job "NIMBUS"."NO_SUCH_JOB"
+ORA-06512: at "SYS.DBMS_ISCHED", line 302
+ORA-06512: at "SYS.DBMS_SCHEDULER", line 843
+ORA-06512: at line 4
+
+JOB_NAME    STATUS
+___________ __________
+LONG_JOB    STOPPED

@@ -1,0 +1,14 @@
+LAST_NAME       SALARY    PERCENT_RANK    CUME_DIST
+____________ _________ _______________ ____________
+Tanaka            7600               0          0.1
+Gupta             7800           0.111          0.2
+Hussain           8000           0.222          0.3
+Johnson           8200           0.333          0.4
+Martínez         13000           0.444          0.5
+Patel            13800           0.556          0.6
+Khan             14200           0.667          0.7
+Thompson         14500           0.778          0.8
+Kapoor           21000           0.889          0.9
+Evans            34000               1            1
+
+10 rows selected.

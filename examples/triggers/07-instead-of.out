@@ -1,0 +1,9 @@
+Trigger FLIGHT_STATUS_V_TRG compiled
+
+1 row updated.
+
+   FLIGHT_ID STATUS
+____________ ____________
+        2800 CANCELLED
+
+Rollback complete.

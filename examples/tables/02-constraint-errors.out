@@ -1,0 +1,21 @@
+Error starting at line : 1
+In command -
+insert into fare_rules (rule_id, route_id, cabin, valid_from, base_fare)
+values (2, 1, 'FIRST', date '2026-04-01', 900)
+Error report -
+ORA-02290: check constraint (NIMBUS.FARE_RULES_CABIN_CK) violated
+
+Error starting at line : 4
+In command -
+insert into fare_rules (rule_id, route_id, valid_from, base_fare)
+values (3, 999, date '2026-04-01', 100)
+Error report -
+ORA-02291: integrity constraint (NIMBUS.FARE_RULES_ROUTE_FK) violated - parent
+key not found
+
+Error starting at line : 7
+In command -
+insert into fare_rules (rule_id, route_id, valid_from, valid_to, base_fare)
+values (4, 1, date '2026-04-01', date '2026-03-01', 100)
+Error report -
+ORA-02290: check constraint (NIMBUS.FARE_RULES_DATES_CK) violated

@@ -1,0 +1,8 @@
+Type GATE_CHANGE_T compiled
+
+PL/SQL procedure successfully completed.
+
+NAME             QUEUE_TYPE            MAX_RETRIES ENQ    DEQ
+________________ __________________ ______________ ______ ______
+AQ$_GATE_QT_E    EXCEPTION_QUEUE                 0 NO     NO
+GATE_Q           NORMAL_QUEUE                    3 YES    YES

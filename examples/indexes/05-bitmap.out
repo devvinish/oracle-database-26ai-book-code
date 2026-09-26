@@ -1,0 +1,18 @@
+Index FLIGHTS_STATUS_BX created.
+
+Explained.
+
+PLAN_TABLE_OUTPUT
+______________________________________________________________
+Plan hash value: 181095534
+
+-----------------------------------------------------------
+| Id  | Operation                     | Name              |
+-----------------------------------------------------------
+|   0 | SELECT STATEMENT              |                   |
+|   1 |  SORT AGGREGATE               |                   |
+|   2 |   BITMAP CONVERSION COUNT     |                   |
+|   3 |    BITMAP INDEX FAST FULL SCAN| FLIGHTS_STATUS_BX |
+-----------------------------------------------------------
+
+10 rows selected.

@@ -1,0 +1,14 @@
+PL/SQL procedure successfully completed.
+
+   DISCOUNTED
+_____________
+           87
+
+   LINE SOURCE
+_______ ____________________________________
+      1 function secret_discount wrapped
+        a000000
+        369
+        abcd
+        abcd
+        abcd

@@ -1,0 +1,5 @@
+PL/SQL procedure successfully completed.
+
+MODEL_NAME     MINING_FUNCTION    ALGORITHM           BUILD_DURATION    MODEL_SIZE
+______________ __________________ ________________ _________________ _____________
+CABIN_CLASS    CLASSIFICATION     DECISION_TREE                    1           829

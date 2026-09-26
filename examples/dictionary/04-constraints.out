@@ -1,0 +1,4 @@
+CONSTRAINT_NAME        COLUMN_NAME    REFERENCES_TABLE    REFERENCES_COLUMN
+______________________ ______________ ___________________ ____________________
+FLIGHTS_AIRCRAFT_FK    TAIL_NUMBER    AIRCRAFT            TAIL_NUMBER
+FLIGHTS_ROUTE_FK       ROUTE_ID       ROUTES              ROUTE_ID

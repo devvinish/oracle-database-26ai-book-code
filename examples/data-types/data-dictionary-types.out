@@ -1,0 +1,11 @@
+COLUMN_NAME    DATA_TYPE       DATA_LENGTH    DATA_PRECISION    DATA_SCALE CHAR_USED    NULLABLE
+______________ ____________ ______________ _________________ _____________ ____________ ___________
+TICKET_ID      NUMBER                   22                                              N
+BOOKING_ID     NUMBER                   22                                              N
+FLIGHT_ID      NUMBER                   22                                              N
+CABIN          VARCHAR2                  8                                 B            N
+SEAT_NO        VARCHAR2                  4                                 B            N
+FARE           NUMBER                   22                 8             2              N
+CHECKED_IN     BOOLEAN                   1                                              N
+
+7 rows selected.

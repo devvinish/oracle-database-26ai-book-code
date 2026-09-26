@@ -1,0 +1,19 @@
+TABLE_NAME       NUM_ROWS    BLOCKS ANALYZED
+_____________ ___________ _________ ______________
+BOOKINGS              700         5 26-SEP-2026
+FLIGHTS              2856        35 26-SEP-2026
+TICKETS              1069        13 26-SEP-2026
+
+   COLUMN_ID COLUMN_NAME     DATA_TYPE    NULLABLE    DATA_DEFAULT
+____________ _______________ ____________ ___________ _______________
+           1 AIRPORT_CODE    CHAR         N
+           2 AIRPORT_NAME    VARCHAR2     N
+           3 CITY            VARCHAR2     N
+           4 COUNTRY_CODE    CHAR         N
+           5 TIME_ZONE       VARCHAR2     N
+           6 LATITUDE        NUMBER       N
+           7 LONGITUDE       NUMBER       N
+           8 ELEVATION_FT    NUMBER       Y
+           9 IS_HUB          BOOLEAN      N           false
+
+9 rows selected.

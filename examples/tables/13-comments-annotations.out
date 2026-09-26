@@ -1,0 +1,14 @@
+Comment created.
+
+Comment created.
+
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+OBJECT_NAME    COLUMN_NAME    ANNOTATION_NAME    ANNOTATION_VALUE
+______________ ______________ __________________ _____________________
+FARE_RULES                    OWNER              Revenue Management
+FARE_RULES                    REVIEW_CYCLE       quarterly
+FARE_RULES     BASE_FARE      DISPLAY_LABEL      Base fare
+FARE_RULES     BASE_FARE      UNIT               USD

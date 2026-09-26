@@ -1,0 +1,8 @@
+View PUBLIC_FARES created.
+
+Error starting at line : 7
+In command -
+delete from public_fares
+Error at Command Line : 7 Column : 13
+Error report -
+SQL Error: ORA-01732: data manipulation operation not legal on this view

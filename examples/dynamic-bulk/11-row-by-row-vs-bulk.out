@@ -1,0 +1,4 @@
+11224 rows, row by row: 54 ms
+11224 rows, FORALL:     3 ms
+
+PL/SQL procedure successfully completed.

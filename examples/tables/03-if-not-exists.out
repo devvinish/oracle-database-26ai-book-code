@@ -1,0 +1,9 @@
+Table FARE_RULES created.
+
+Table NO_SUCH_TABLE dropped.
+
+Error starting at line : 5
+In command -
+create table fare_rules (rule_id number)
+Error report -
+ORA-00955: name is already used by an existing object

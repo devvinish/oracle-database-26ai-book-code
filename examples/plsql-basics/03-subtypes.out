@@ -1,0 +1,7 @@
+DXB load factor 87%
+
+declare
+*
+ERROR at line 1:
+ORA-06502: PL/SQL: value or conversion error
+ORA-06512: at line 9

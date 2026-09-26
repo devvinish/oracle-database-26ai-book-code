@@ -1,0 +1,20 @@
+PL/SQL procedure successfully completed.
+
+SOURCE          ROW_KEY
+_______________ _________________________
+AIRPORTS        {"AIRPORT_CODE":"DXB"}
+TRAVEL_NOTES    {"NOTE_ID":1}
+TRAVEL_NOTES    {"NOTE_ID":6}
+
+DOCUMENT
+________________________________________________________________________________________
+{
+  "NIMBUS" :
+  {
+    "TRAVEL_NOTES" :
+    {
+      "NOTE_ID" : 3,
+      "NOTE" : "Our Singapore lounge serves laksa and has a quiet room for sleeping."
+    }
+  }
+}

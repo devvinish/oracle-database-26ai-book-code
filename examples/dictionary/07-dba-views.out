@@ -1,0 +1,8 @@
+ORACLE_MAINTAINED       USERS
+____________________ ________
+Y                          38
+N                           5
+
+USERNAME    ACCOUNT_STATUS    DEFAULT_TABLESPACE
+___________ _________________ _____________________
+NIMBUS      OPEN              USERS

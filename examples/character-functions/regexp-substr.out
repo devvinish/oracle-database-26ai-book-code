@@ -1,0 +1,11 @@
+EMAIL                        USER_NAME        DOMAIN         SECOND_WORD
+____________________________ ________________ ______________ ______________
+jose.williams@example.com    jose.williams    example.com    williams
+lucia.laurent@example.com    lucia.laurent    example.com    laurent
+
+   N AIRPORT
+____ __________
+   1 DXB
+   2 LHR
+   3 SIN
+   4 SYD

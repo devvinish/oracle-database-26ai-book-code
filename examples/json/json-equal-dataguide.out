@@ -1,0 +1,63 @@
+SAME
+________
+equal
+
+DATAGUIDE
+_____________________________________________
+[
+  {
+    "o:path" : "$",
+    "type" : "object",
+    "o:length" : 1
+  },
+  {
+    "o:path" : "$.tier",
+    "type" : "string",
+    "o:length" : 8
+  },
+  {
+    "o:path" : "$.points",
+    "type" : "number",
+    "o:length" : 4
+  },
+  {
+    "o:path" : "$.memberId",
+    "type" : "string",
+    "o:length" : 8
+  },
+  {
+    "o:path" : "$.memberSince",
+    "type" : "string",
+    "o:length" : 16
+  },
+  {
+    "o:path" : "$.preferences",
+    "type" : "object",
+    "o:length" : 1
+  },
+  {
+    "o:path" : "$.preferences.meal",
+    "type" : "string",
+    "o:length" : 16
+  },
+  {
+    "o:path" : "$.preferences.seat",
+    "type" : "string",
+    "o:length" : 8
+  },
+  {
+    "o:path" : "$.preferences.newsletter",
+    "type" : "boolean",
+    "o:length" : 4
+  },
+  {
+    "o:path" : "$.favoriteAirports",
+    "type" : "array",
+    "o:length" : 1
+  },
+  {
+    "o:path" : "$.favoriteAirports[*]",
+    "type" : "string",
+    "o:length" : 4
+  }
+]

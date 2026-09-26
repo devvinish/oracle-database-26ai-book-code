@@ -1,0 +1,5 @@
+FLIGHT_NO    STATUS       LABEL      NULLS_MATCH
+____________ ____________ __________ ___________________
+NM128        ARRIVED      Flown      departed
+NM110        ARRIVED      Flown      departed
+NM132        SCHEDULED    Planned    no departure yet

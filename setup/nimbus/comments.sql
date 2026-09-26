@@ -1,0 +1,18 @@
+comment on table countries        is 'Countries of the airports and customers';
+comment on table airports         is 'Airports that Nimbus Air serves (or plans to serve), with their time zones';
+comment on table aircraft_types   is 'Aircraft models of the fleet';
+comment on table aircraft         is 'The fleet: one row per aircraft, identified by its registration';
+comment on table routes           is 'Direct routes between two airports, one row per direction';
+comment on table flights          is 'Scheduled and flown flights, first quarter of 2026';
+comment on table departments      is 'Departments of the airline';
+comment on table employees        is 'Employees, with their managers';
+comment on table crew_assignments is 'Pilots and cabin crew on each flight';
+comment on table customers        is 'Passengers who booked with Nimbus Air, with their loyalty profile (JSON)';
+comment on table bookings         is 'Bookings (reservations); one booking has one or more tickets';
+comment on table tickets          is 'One seat on one flight within a booking';
+comment on table payments         is 'Payments and refunds of bookings';
+comment on table reviews          is 'Reviews that customers wrote about their flights';
+comment on column airports.time_zone    is 'Time zone region name, for example Asia/Dubai';
+comment on column flights.flight_no     is 'Flight number, for example NM101';
+comment on column routes.block_minutes  is 'Scheduled gate-to-gate time in minutes';
+comment on column customers.loyalty     is 'Loyalty program profile: memberId, tier, points, preferences';

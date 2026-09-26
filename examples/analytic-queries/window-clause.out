@@ -1,0 +1,6 @@
+LAST_NAME    HIRE_DATE         SALARY    SEQ    RUNNING_PAYROLL    AVG_WITH_PREVIOUS
+____________ ______________ _________ ______ __________________ ____________________
+Mehta        01-SEP-2015        33000      1              33000                33000
+Reddy        06-JUN-2016        15500      2              48500                24250
+Williams     18-FEB-2019         8800      3              57300                12150
+Schmidt      04-SEP-2023         8300      4              65600                 8550

@@ -1,0 +1,11 @@
+AIRPORT_CODE    CITY         COUNTRY_NAME    TIME_ZONE         IS_HUB
+_______________ ____________ _______________ _________________ _________
+BLR             Bengaluru    India           Asia/Kolkata      false
+BOM             Mumbai       India           Asia/Kolkata      false
+DEL             Delhi        India           Asia/Kolkata      false
+HKG             Hong Kong    Hong Kong       Asia/Hong_Kong    false
+KTM             Kathmandu    Nepal           Asia/Kathmandu    false
+NRT             Tokyo        Japan           Asia/Tokyo        false
+SIN             Singapore    Singapore       Asia/Singapore    false
+
+7 rows selected.

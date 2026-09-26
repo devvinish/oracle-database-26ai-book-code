@@ -1,0 +1,12 @@
+PL/SQL procedure successfully completed.
+
+Accuracy: .897, area under ROC: .915
+
+PL/SQL procedure successfully completed.
+
+ACTUAL_TARGET_VALUE    PREDICTED_TARGET_VALUE       VALUE
+______________________ _________________________ ________
+BUSINESS               BUSINESS                        33
+BUSINESS               ECONOMY                         13
+ECONOMY                BUSINESS                         9
+ECONOMY                ECONOMY                        158

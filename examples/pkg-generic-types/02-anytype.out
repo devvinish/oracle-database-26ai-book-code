@@ -1,0 +1,8 @@
+Type SEAT_T compiled
+
+NIMBUS.SEAT_T: typecode 108 (object), 3 attributes
+  SEAT_NO: typecode 9
+  CABIN: typecode 9
+  WINDOW: typecode 252
+
+PL/SQL procedure successfully completed.

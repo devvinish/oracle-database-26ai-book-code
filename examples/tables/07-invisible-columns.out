@@ -1,0 +1,13 @@
+Table GATE_CHANGES created.
+
+Table GATE_CHANGES altered.
+
+1 row inserted.
+
+   FLIGHT_ID GATE
+____________ _______
+        2800 B7
+
+   FLIGHT_ID GATE    CHANGED_BY
+____________ _______ _____________
+        2800 B7      NIMBUS

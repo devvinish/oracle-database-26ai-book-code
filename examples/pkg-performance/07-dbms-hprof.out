@@ -1,0 +1,8 @@
+total 24188
+
+PL/SQL procedure successfully completed.
+
+FUNCTION                      CALLS
+__________________________ ________
+ROUTE_MINUTES                    22
+__static_sql_exec_line1          22

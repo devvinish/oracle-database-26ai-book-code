@@ -1,0 +1,15 @@
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
+
+   CUSTOMER_ID COUNTRY_CODE    EMAIL                      PHONE
+______________ _______________ __________________________ ___________________
+             1 AE              diego.lopez@example.com    +971 22 414 1147
+             2 IN
+             3 GB
+             4 BR
+             5 IE
+
+OBJECT_NAME    POLICY_NAME      FUNCTION                SEL    UPD
+______________ ________________ _______________________ ______ ______
+CUSTOMERS      AGENT_COUNTRY    AGENT_COUNTRY_FILTER    YES    NO

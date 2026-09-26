@@ -1,0 +1,10 @@
+Trigger EMPLOYEES_CAP_TRG compiled
+
+Error starting at line : 13
+In command -
+update employees set salary = salary + 1 where employee_id = 161
+Error at Command Line : 13 Column : 8
+Error report -
+SQL Error: ORA-04091: table NIMBUS.EMPLOYEES is mutating, trigger/function may not see it
+ORA-06512: at "NIMBUS.EMPLOYEES_CAP_TRG", line 4
+ORA-04088: error during execution of trigger 'NIMBUS.EMPLOYEES_CAP_TRG'

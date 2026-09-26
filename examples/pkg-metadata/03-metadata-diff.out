@@ -1,0 +1,11 @@
+Table COUNTRIES_V2 created.
+
+CHANGES
+_________________________________________________________________________________
+ALTER TABLE "NIMBUS"."COUNTRIES" ADD ("ISO_NUMERIC" NUMBER(3,0))
+  ALTER TABLE "NIMBUS"."COUNTRIES" MODIFY ("COUNTRY_NAME" VARCHAR2(80))
+  ALTER TABLE "NIMBUS"."COUNTRIES" MODIFY ("REGION" NULL)
+  ALTER TABLE "NIMBUS"."COUNTRIES" MODIFY ("CURRENCY_CODE" NULL)
+
+  -- ORA-39278: Cannot alter table with segments to segment creation deferred.
+  ALTER TABLE "NIMBUS"."COUNTRIES" RENAME TO "COUNTRIES_V2"

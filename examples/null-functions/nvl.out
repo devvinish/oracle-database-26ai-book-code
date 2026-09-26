@@ -1,0 +1,5 @@
+FIRST_NAME    LAST_NAME       SALARY    COMMISSION_PCT    COMMISSION    WITH_COMMISSION    WITHOUT_NVL
+_____________ ____________ _________ _________________ _____________ __________________ ______________
+Arjun         Kapoor           21000                               0              21000
+Ava           Johnson           8200               0.1           0.1               9020           9020
+Neha          Gupta             7800              0.12          0.12               8736           8736

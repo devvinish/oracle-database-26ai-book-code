@@ -1,0 +1,12 @@
+   FLIGHT_ID
+____________
+        2328
+        2360
+
+worker 2 took flight 2392
+worker 2 took flight 2424
+worker 2 took flight 2456
+
+PL/SQL procedure successfully completed.
+
+Rollback complete.

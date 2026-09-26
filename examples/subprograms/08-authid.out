@@ -1,0 +1,9 @@
+Function COUNT_MY_TABLES compiled
+
+OBJECT_NAME        AUTHID
+__________________ _______________
+COUNT_MY_TABLES    CURRENT_USER
+
+   TABLES
+_________
+       14

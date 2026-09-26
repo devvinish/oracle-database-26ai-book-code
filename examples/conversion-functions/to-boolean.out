@@ -1,0 +1,12 @@
+V        BOOL
+________ ________
+true     true
+yes      true
+on       true
+1        true
+false    false
+no       false
+off      false
+0        false
+
+8 rows selected.

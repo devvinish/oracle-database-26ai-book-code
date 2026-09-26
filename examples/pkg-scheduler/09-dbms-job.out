@@ -1,0 +1,11 @@
+PL/SQL procedure successfully completed.
+
+WHAT                       INTERVAL                     BROKEN
+__________________________ ____________________________ _________
+log_route_count('LHR');    trunc(sysdate) + 1 + 2/24    N
+
+JOB_STYLE    JOB_ACTION                 REPEAT_INTERVAL
+____________ __________________________ ____________________________
+REGULAR      log_route_count('LHR');    trunc(sysdate) + 1 + 2/24
+
+PL/SQL procedure successfully completed.

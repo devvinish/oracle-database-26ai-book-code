@@ -1,0 +1,13 @@
+NAME    DESCRIPTION
+_______ ________________________________
+ARC0    Archival Process 0
+CJQ0    Job Queue Coordinator
+CKPT    checkpoint
+DBW0    db writer process 0
+LGWR    Redo etc.
+MMON    Manageability Monitor Process
+PMON    process cleanup
+RECO    distributed recovery
+SMON    System Monitor Process
+
+9 rows selected.

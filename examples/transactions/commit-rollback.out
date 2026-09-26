@@ -1,0 +1,11 @@
+1 row updated.
+
+TAIL_NUMBER    STATUS
+______________ ______________
+A6-NAA         MAINTENANCE
+
+Rollback complete.
+
+TAIL_NUMBER    STATUS
+______________ _________
+A6-NAA         ACTIVE

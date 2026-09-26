@@ -1,0 +1,15 @@
+Table PROMO_CODES created.
+
+2 rows inserted.
+
+   PROMO_ID CODE           DISCOUNT
+___________ ___________ ___________
+        100 SPRING26             15
+        110 FLYDXB               10
+
+Error starting at line : 10
+In command -
+insert into promo_codes (promo_id, code, discount) values (1, 'MANUAL', 5)
+Error at Command Line : 10 Column : 26
+Error report -
+SQL Error: ORA-32795: cannot insert into a generated always identity column

@@ -1,0 +1,14 @@
+Grant succeeded.
+
+Grant succeeded.
+
+Grant succeeded.
+
+GRANTEE       TABLE_NAME    PRIVILEGE
+_____________ _____________ ____________
+NIMBUS_APP    FLIGHTS       SELECT
+NIMBUS_APP    ROUTES        SELECT
+
+GRANTEE       TABLE_NAME    COLUMN_NAME    PRIVILEGE
+_____________ _____________ ______________ ____________
+NIMBUS_APP    FLIGHTS       STATUS         UPDATE

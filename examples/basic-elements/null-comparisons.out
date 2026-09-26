@@ -1,0 +1,3 @@
+   ALL_EMPLOYEES    EQUALS_NULL    IS_NULL    NOT_5_PERCENT    DECODE_NOT_5
+________________ ______________ __________ ________________ _______________
+              55              0         48                4              52

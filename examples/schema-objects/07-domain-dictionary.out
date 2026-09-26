@@ -1,0 +1,8 @@
+NAME       TYPE          COLS BUILTIN
+__________ __________ _______ __________
+PHONE_D    REGULAR          1 false
+
+TABLE_NAME       COLUMN_NAME    DOMAIN_NAME
+________________ ______________ ______________
+CREW_CONTACTS    MOBILE         PHONE_D
+CREW_CONTACTS    OFFICE         PHONE_D

@@ -1,0 +1,6 @@
+PL/SQL procedure successfully completed.
+
+CORR_ID       MSG_PRIORITY MSG_STATE    FLIGHT    GATE
+__________ _______________ ____________ _________ _______
+NM150                    1 READY        NM150     B12
+NM101                    5 READY        NM101     C5

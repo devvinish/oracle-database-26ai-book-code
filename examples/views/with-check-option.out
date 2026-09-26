@@ -1,0 +1,12 @@
+View SALES_STAFF created.
+
+1 row updated.
+
+Error starting at line : 8
+In command -
+update sales_staff set department_id = 50 where employee_id = 154
+Error at Command Line : 8 Column : 8
+Error report -
+SQL Error: ORA-01402: view WITH CHECK OPTION where-clause violation
+
+Rollback complete.

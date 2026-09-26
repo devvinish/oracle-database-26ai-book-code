@@ -1,0 +1,10 @@
+FLIGHT_NO    DAY       STATUS       LAST_KNOWN_ARRIVAL
+____________ _________ ____________ _____________________
+NM107        09-MAR    ARRIVED
+NM107        11-MAR    ARRIVED      09-MAR 17:59
+NM107        13-MAR    ARRIVED      11-MAR 18:00
+NM107        14-MAR    ARRIVED      13-MAR 18:20
+NM107        16-MAR    SCHEDULED    14-MAR 17:55
+NM107        18-MAR    SCHEDULED    14-MAR 17:55
+
+6 rows selected.

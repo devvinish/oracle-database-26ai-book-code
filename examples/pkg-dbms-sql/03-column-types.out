@@ -1,0 +1,11 @@
+FLIGHT_ID             type 2    max length 22  not null
+FLIGHT_NO             type 1    max length 6  not null
+ROUTE_ID              type 2    max length 22  not null
+TAIL_NUMBER           type 1    max length 8  not null
+SCHEDULED_DEPARTURE   type 181  max length 13  not null
+SCHEDULED_ARRIVAL     type 181  max length 13  not null
+ACTUAL_DEPARTURE      type 181  max length 13
+ACTUAL_ARRIVAL        type 181  max length 13
+STATUS                type 1    max length 10  not null
+
+PL/SQL procedure successfully completed.

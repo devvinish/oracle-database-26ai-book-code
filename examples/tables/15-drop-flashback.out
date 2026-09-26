@@ -1,0 +1,19 @@
+Table OLD_FARES created.
+
+Table OLD_FARES dropped.
+
+ORIGINAL_NAME    OPERATION    TYPE
+________________ ____________ ________
+OLD_FARES        DROP         TABLE
+
+Flashback succeeded.
+
+   RESTORED_ROWS
+________________
+               1
+
+Table OLD_FARES dropped.
+
+   IN_RECYCLEBIN
+________________
+               0

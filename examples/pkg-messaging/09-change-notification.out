@@ -1,0 +1,19 @@
+Procedure NOTE_FARE_CHANGE compiled
+
+registration created
+
+PL/SQL procedure successfully completed.
+
+1 row updated.
+
+Commit complete.
+
+PL/SQL procedure successfully completed.
+
+TABLE_NAME               OPERATION
+________________________ ____________
+NIMBUS.AIRCRAFT_TYPES    UPDATE
+
+TABLE_NAME
+________________________
+NIMBUS.AIRCRAFT_TYPES

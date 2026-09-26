@@ -1,0 +1,9 @@
+Database link LOOPBACK created.
+
+   AIRPORTS_OVER_THE_LINK
+_________________________
+                       22
+
+DB_LINK     USERNAME    HOST
+___________ ___________ __________________________
+LOOPBACK    NIMBUS      localhost:1521/FREEPDB1

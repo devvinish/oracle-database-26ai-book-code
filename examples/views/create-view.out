@@ -1,0 +1,7 @@
+View FLIGHT_BOARD created.
+
+FLIGHT_NO    ORIGIN    DESTINATION    DAY       STATUS
+____________ _________ ______________ _________ __________
+NM149        SYD       AKL            11-JAN    ARRIVED
+NM149        SYD       AKL            13-JAN    ARRIVED
+NM149        SYD       AKL            01-JAN    ARRIVED

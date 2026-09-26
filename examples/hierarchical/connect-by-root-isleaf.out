@@ -1,0 +1,18 @@
+LAST_NAME          LEVEL TOP_MANAGER       IS_LEAF
+_______________ ________ ______________ __________
+Fernández              1 Fernández               0
+Li                     2 Fernández               1
+Suzuki                 2 Fernández               1
+Rahman                 1 Rahman                  0
+Okafor                 2 Rahman                  0
+Aziz                   3 Rahman                  1
+Bianchi                3 Rahman                  1
+O'Brien                3 Rahman                  1
+Zhang                  3 Rahman                  1
+Taylor                 2 Rahman                  0
+Brown                  3 Rahman                  1
+Laurent                3 Rahman                  1
+Sharma                 3 Rahman                  1
+van der Berg           3 Rahman                  1
+
+14 rows selected.

@@ -1,0 +1,7 @@
+Table MEDIA created.
+
+1 row inserted.
+
+   ID NOTES           FILE_BYTES PROFILE            EMBEDDING
+_____ ____________ _____________ __________________ ____________________________________________________
+    1 Long text              117 {"tier":"Gold"}    [1.00000001E-001,2.00000003E-001,3.00000012E-001]

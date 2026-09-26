@@ -1,0 +1,13 @@
+1 row updated.
+
+Commit complete.
+
+MVIEW_NAME          STALENESS
+___________________ ________________
+ROUTE_REVENUE_MV    NEEDS_COMPILE
+
+PL/SQL procedure successfully completed.
+
+MVIEW_NAME          STALENESS    REFRESHED
+___________________ ____________ ____________
+ROUTE_REVENUE_MV    FRESH        true

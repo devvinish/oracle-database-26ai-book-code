@@ -1,0 +1,9 @@
+User NIMBUS_APP created.
+
+User NIMBUS_APP altered.
+
+Grant succeeded.
+
+USERNAME      ACCOUNT_STATUS    DEFAULT_TABLESPACE    AUTHENTICATION_TYPE
+_____________ _________________ _____________________ ______________________
+NIMBUS_APP    OPEN              USERS                 PASSWORD

@@ -1,0 +1,7 @@
+A          B          A_AND_B    A_OR_B     NOT_A
+__________ __________ __________ __________ __________
+true       true       true       true       false
+true       false      false      true       false
+true       UNKNOWN    UNKNOWN    true       false
+false      UNKNOWN    false      UNKNOWN    true
+UNKNOWN    UNKNOWN    UNKNOWN    UNKNOWN    UNKNOWN

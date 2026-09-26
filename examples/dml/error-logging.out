@@ -1,0 +1,11 @@
+PL/SQL procedure successfully completed.
+
+1 row inserted.
+
+   ERROR TAG               DESTINATION
+________ _________________ ______________
+       1 load of 26 Sep    BOM
+       1 load of 26 Sep    DEL
+       1 load of 26 Sep    BLR
+
+Rollback complete.

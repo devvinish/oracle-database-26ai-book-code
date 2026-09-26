@@ -1,0 +1,26 @@
+Procedure HUB_PAGE compiled
+
+Content-type: text/html; charset=utf-8
+Content-length: 238
+
+<html>
+<head>
+<title>Nimbus Air hubs</title>
+</head>
+<body>
+<h1>Our hubs</h1>
+<table  class="hubs">
+<tr>
+<th>Code</th>
+<th>City</th>
+</tr>
+<tr>
+<td>DXB</td>
+<td>Dubai</td>
+</tr>
+</table>
+<p><b>Lounges</b> at every hub</p>
+</body>
+</html>
+
+PL/SQL procedure successfully completed.

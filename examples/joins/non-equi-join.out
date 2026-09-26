@@ -1,0 +1,14 @@
+LAST_NAME       SALARY GRADE
+____________ _________ ________
+Tanaka            7600 A
+Gupta             7800 A
+Hussain           8000 B
+Johnson           8200 B
+Martínez         13000 B
+Patel            13800 B
+Khan             14200 B
+Thompson         14500 B
+Kapoor           21000 C
+Evans            34000 D
+
+10 rows selected.

@@ -1,0 +1,31 @@
+TABLE: AIRPORTS
+	 LAST ANALYZED:2026-09-26 19:24:05.0
+	 ROWS         :22
+	 SAMPLE SIZE  :22
+	 INMEMORY     :DISABLED
+	 COMMENTS     :Airports that Nimbus Air serves (or plans to serve), with their time zones
+
+Columns
+NAME           DATA TYPE           NULL  DEFAULT    COMMENTS
+*AIRPORT_CODE  CHAR(3 BYTE)        No
+ AIRPORT_NAME  VARCHAR2(80 BYTE)   No
+ CITY          VARCHAR2(40 BYTE)   No
+ COUNTRY_CODE  CHAR(2 BYTE)        No
+ TIME_ZONE     VARCHAR2(40 BYTE)   No               Time zone region name, for example Asia/Dubai
+ LATITUDE      NUMBER(8,5)         No
+ LONGITUDE     NUMBER(8,5)         No
+ ELEVATION_FT  NUMBER(5,0)         Yes
+ IS_HUB        BOOLEAN             No    false
+
+Indexes
+INDEX_NAME            UNIQUENESS    STATUS    FUNCIDX_STATUS    COLUMNS
+_____________________ _____________ _________ _________________ _______________
+NIMBUS.AIRPORTS_PK    UNIQUE        VALID                       AIRPORT_CODE
+
+References
+TABLE_NAME     CONSTRAINT_NAME           DELETE_RULE    STATUS     DEFERRABLE        VALIDATED    GENERATED
+______________ _________________________ ______________ __________ _________________ ____________ ____________
+DEPARTMENTS    DEPARTMENTS_AIRPORT_FK    NO ACTION      ENABLED    NOT DEFERRABLE    VALIDATED    USER NAME
+EMPLOYEES      EMPLOYEES_AIRPORT_FK      NO ACTION      ENABLED    NOT DEFERRABLE    VALIDATED    USER NAME
+ROUTES         ROUTES_DESTINATION_FK     NO ACTION      ENABLED    NOT DEFERRABLE    VALIDATED    USER NAME
+ROUTES         ROUTES_ORIGIN_FK          NO ACTION      ENABLED    NOT DEFERRABLE    VALIDATED    USER NAME

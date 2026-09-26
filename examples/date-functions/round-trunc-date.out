@@ -1,0 +1,7 @@
+TRUNC_DAY      MONTH_START    QUARTER_START    ISO_WEEK_START    ROUND_MONTH    ROUND_YEAR
+______________ ______________ ________________ _________________ ______________ ______________
+19-AUG-2026    01-AUG-2026    01-JUL-2026      17-AUG-2026       01-SEP-2026    01-JAN-2027
+
+TRUNC_HOUR    ROUND_HOUR    CEIL_HOUR    FLOOR_DAY
+_____________ _____________ ____________ _______________
+16:00         17:00         17:00        19-AUG 00:00

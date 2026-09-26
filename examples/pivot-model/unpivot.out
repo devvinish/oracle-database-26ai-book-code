@@ -1,0 +1,6 @@
+TYPE_CODE    CABIN          SEATS
+____________ ___________ ________
+B77W         BUSINESS          42
+B77W         ECONOMY          312
+B789         BUSINESS          30
+B789         ECONOMY          260

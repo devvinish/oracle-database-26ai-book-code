@@ -1,0 +1,5 @@
+declare
+*
+ERROR at line 1:
+ORA-20001: Flight 30 can't be rebooked: it is ARRIVED
+ORA-06512: at line 6

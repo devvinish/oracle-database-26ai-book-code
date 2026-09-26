@@ -1,0 +1,4 @@
+logo.png starts 89504E470D0A1A0A, open? yes
+cannot open: ORA-29283: invalid file operation: nonexistent file or path [29434]
+
+PL/SQL procedure successfully completed.

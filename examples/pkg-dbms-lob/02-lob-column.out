@@ -1,0 +1,7 @@
+1 row inserted.
+
+PL/SQL procedure successfully completed.
+
+   ID    CHARS BODY
+_____ ________ ____________________________________________________________
+    1       57 Rule 1: max 23 kg. Rule 2: max 23 kg. Rule 3: max 23 kg.

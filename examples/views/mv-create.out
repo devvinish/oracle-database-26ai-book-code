@@ -1,0 +1,5 @@
+Materialized view ROUTE_REVENUE_MV created.
+
+MVIEW_NAME          REFRESH_MODE    REFRESH_METHOD    STALENESS    REWRITE_ENABLED
+___________________ _______________ _________________ ____________ __________________
+ROUTE_REVENUE_MV    DEMAND          COMPLETE          FRESH        Y

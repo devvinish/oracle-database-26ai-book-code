@@ -1,0 +1,8 @@
+Serialized model: 1963 bytes
+
+PL/SQL procedure successfully completed.
+
+MODEL_NAME          ALGORITHM
+___________________ ________________
+CABIN_CLASS         DECISION_TREE
+CABIN_CLASS_COPY    DECISION_TREE

@@ -1,0 +1,44 @@
+valid? 1
+valid? no
+{
+  "valid" : false,
+  "errors" :
+  [
+    {
+      "schemaPath" : "$",
+      "instancePath" : "$",
+      "code" : "JZN-00501",
+      "error" : "JSON schema validation failed"
+    },
+    {
+      "schemaPath" : "$.properties",
+      "instancePath" : "$",
+      "code" : "JZN-00514",
+      "error" : "invalid properties: 'memberId', 'tier', 'points'"
+    },
+    {
+      "schemaPath" : "$.properties.points.minimum",
+      "instancePath" : "$.points",
+      "code" : "JZN-00507",
+      "error" : "value less than minimum value, actual: -5, expected: 0"
+    },
+    {
+      "schemaPath" : "$.properties.tier.enum",
+      "instancePath" : "$.tier",
+      "code" : "JZN-00505",
+      "error" : "element was not equal to any of the enumerated values"
+    },
+    {
+      "schemaPath" : "$.properties.memberId.pattern",
+      "instancePath" : "$.memberId",
+      "code" : "JZN-00538",
+      "error" : "value did not match the expected pattern"
+    }
+  ]
+}
+
+PL/SQL procedure successfully completed.
+
+DB_OBJECT           REGION_COLUMN
+___________________ ___________________________________________________________
+NIMBUS.COUNTRIES    {"type":"string","extendedType":"string","maxLength":30}

@@ -1,0 +1,16 @@
+Type T_CREW_MEMBER compiled
+
+Table CREW_OBJECTS created.
+
+1 row inserted.
+
+1 row inserted.
+
+NAME             ROLE             REF_LENGTH
+________________ _____________ _____________
+Hugo Dubois      CAPTAIN                  86
+Chloé Laurent    CABIN CREW               86
+
+VIA_DEREF
+______________
+Hugo Dubois

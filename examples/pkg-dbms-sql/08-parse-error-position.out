@@ -1,0 +1,4 @@
+ORA-00904: "CITTY": invalid identifier
+error at character 21
+
+PL/SQL procedure successfully completed.

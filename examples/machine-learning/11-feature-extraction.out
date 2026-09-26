@@ -1,0 +1,13 @@
+PL/SQL procedure successfully completed.
+
+   CUSTOMER_ID    BOOKINGS    SPENT    POINTS    TOP_FEATURE    FEATURE_1    FEATURE_2
+______________ ___________ ________ _________ ______________ ____________ ____________
+             1          12    12025      3296              2        0.005        0.125
+             2           7     8316      7823              2         0.01         0.08
+            50           3     1161      7045              1        0.008        0.004
+            90           6     7321         0              2        0.001        0.079
+
+   FEATURE_ID    VALUE
+_____________ ________
+            2    0.125
+            1    0.005

@@ -1,0 +1,8 @@
+Procedure RAISE_SALARY altered.
+
+Function FLIGHT_MINUTES altered.
+
+NAME              TYPE            PLSQL_OPTIMIZE_LEVEL PLSQL_CODE_TYPE
+_________________ ____________ _______________________ __________________
+FLIGHT_MINUTES    FUNCTION                           3 INTERPRETED
+RAISE_SALARY      PROCEDURE                          2 INTERPRETED

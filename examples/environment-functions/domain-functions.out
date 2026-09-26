@@ -1,0 +1,14 @@
+Domain EMAIL_D created.
+
+Table STAFF_CONTACTS created.
+
+2 rows inserted.
+
+   ID EMAIL                          DOMAIN            DISPLAY
+_____ ______________________________ _________________ ______________________________
+    1 Layla.Haddad@Nimbus.example    NIMBUS.EMAIL_D    layla.haddad@nimbus.example
+    2 OMAR@nimbus.example            NIMBUS.EMAIL_D    omar@nimbus.example
+
+GOOD    BAD      NUMBER_TYPE
+_______ ________ ______________
+true    false    true

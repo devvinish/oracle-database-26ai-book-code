@@ -1,0 +1,10 @@
+OBJECT_TYPE    NUM_ROWS    INDEXES
+______________ ___________ __________________
+TABLE          16          ["AIRCRAFT_PK"]
+
+NAME            TYPE           LEN NOT_NULL    PK
+_______________ ___________ ______ ___________ ________
+TAIL_NUMBER     VARCHAR2         8 true        true
+TYPE_CODE       VARCHAR2         4 true        false
+DELIVERED_ON    DATE               true        false
+STATUS          VARCHAR2        12 true        false

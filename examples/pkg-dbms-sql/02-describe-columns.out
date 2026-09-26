@@ -1,0 +1,15 @@
+Procedure PRINT_QUERY compiled
+
+TYPE_CODE         MODEL             RANGE_KM
+B789              787-9 Dreamliner  14010
+B77W              777-300ER         13650
+REGION            COUNTRIES
+Middle East       1
+Oceania           2
+South America     1
+North America     2
+Europe            6
+Asia              5
+Africa            2
+
+PL/SQL procedure successfully completed.

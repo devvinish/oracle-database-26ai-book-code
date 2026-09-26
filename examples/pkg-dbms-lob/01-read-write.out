@@ -1,0 +1,7 @@
+length: 42
+read 20 chars from 14: baggage policy, vers
+substr: Nimbus
+instr of "version": 30
+temporary? 1
+
+PL/SQL procedure successfully completed.

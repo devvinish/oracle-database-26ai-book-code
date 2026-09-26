@@ -1,0 +1,14 @@
+View ML_CABIN_FACTORS created.
+
+PL/SQL procedure successfully completed.
+
+ATTRIBUTE_NAME       EXPLANATORY_VALUE    RANK
+_________________ ____________________ _______
+DAYS_AHEAD                      0.3411       1
+POINTS                          0.2219       2
+TIER                            0.2163       3
+LEGS                                 0       4
+AGE                                  0       4
+DISTANCE_KM                          0       4
+
+6 rows selected.

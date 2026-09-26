@@ -1,0 +1,15 @@
+USERNAME    DEFAULT_TABLESPACE    TEMPORARY_TABLESPACE    ACCOUNT_STATUS
+___________ _____________________ _______________________ _________________
+NIMBUS      USERS                 TEMP                    OPEN
+
+OBJECT_TYPE       OBJECTS
+______________ __________
+INDEX                  27
+TABLE                  14
+
+SEGMENT_NAME            KB
+___________________ ______
+CREW_ASSIGNMENTS       384
+FLIGHTS                320
+TICKETS                128
+COUNTRIES               64

@@ -1,0 +1,10 @@
+   DEPARTMENT_ID LAST_NAME       SALARY
+________________ ____________ _________
+              30 Rahman           22000
+              30 Taylor           11800
+              30 Okafor           11600
+              40 Evans            34000
+              40 Kapoor           21000
+              40 Thompson         14500
+
+6 rows selected.

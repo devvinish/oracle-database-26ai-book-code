@@ -1,0 +1,9 @@
+2 inserted
+1 updated
+
+PL/SQL procedure successfully completed.
+
+FLIGHT_NO    GATE    REMARK
+____________ _______ ______________
+NM101        C3
+NM150        B12     gate change

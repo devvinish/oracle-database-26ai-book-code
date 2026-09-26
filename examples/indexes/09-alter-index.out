@@ -1,0 +1,15 @@
+Index BOOKINGS_BOOKED_AT_IX altered.
+
+Index BOOKINGS_BOOKED_AT_IX altered.
+
+Index BOOKINGS_BOOKED_IX altered.
+
+INDEX_NAME            STATUS      VISIBILITY
+_____________________ ___________ _____________
+BOOKINGS_BOOKED_IX    UNUSABLE    VISIBLE
+
+Index BOOKINGS_BOOKED_IX altered.
+
+INDEX_NAME            STATUS
+_____________________ _________
+BOOKINGS_BOOKED_IX    VALID

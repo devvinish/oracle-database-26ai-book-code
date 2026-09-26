@@ -1,0 +1,9 @@
+PL/SQL procedure successfully completed.
+
+LOYALTY received {"event":"booked","ref":"NX7Q2P","miles":1250}
+
+PL/SQL procedure successfully completed.
+
+NAME              QUEUE_TYPE      SHARDED
+_________________ _______________ __________
+BOOKING_EVENTS    NORMAL_QUEUE    TRUE

@@ -1,0 +1,6 @@
+Error starting at line : 1
+In command -
+select to_date('31/02/2026', 'DD/MM/YYYY') as no_such_day from dual
+Error at Command Line : 1 Column : 16
+Error report -
+SQL Error: ORA-01839: date not valid for month specified

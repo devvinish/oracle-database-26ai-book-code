@@ -1,0 +1,8 @@
+1 row updated.
+
+EMAIL                BOOKING_REF    STATUS
+____________________ ______________ ____________
+k.new@example.com    FH2FHM         COMPLETED
+k.new@example.com    YWBLH7         CANCELLED
+
+Rollback complete.

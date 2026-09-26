@@ -1,0 +1,7 @@
+NAME           TYPE            REFERENCED_NAME    REFERENCED_TYPE
+______________ _______________ __________________ __________________
+BOOKING_API    PACKAGE BODY    AIRCRAFT           TABLE
+BOOKING_API    PACKAGE BODY    AIRCRAFT_TYPES     TABLE
+BOOKING_API    PACKAGE BODY    BOOKING_API        PACKAGE
+BOOKING_API    PACKAGE BODY    FLIGHTS            TABLE
+BOOKING_API    PACKAGE BODY    TICKETS            TABLE

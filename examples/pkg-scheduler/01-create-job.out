@@ -1,0 +1,5 @@
+PL/SQL procedure successfully completed.
+
+JOB_NAME                  STATE        NEXT_RUN_DATE
+_________________________ ____________ __________________________________
+NIGHTLY_STATUS_CLEANUP    SCHEDULED    01-JAN-2027 02:30:00 ASIA/DUBAI

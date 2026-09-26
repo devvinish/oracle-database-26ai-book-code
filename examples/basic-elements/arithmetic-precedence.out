@@ -1,0 +1,3 @@
+   NO_PARENS    PARENS    UNARY    DIVISION    LEFT_TO_RIGHT CONCAT_SUM
+____________ _________ ________ ___________ ________________ _____________
+          14        20        6         2.5                4 NM101

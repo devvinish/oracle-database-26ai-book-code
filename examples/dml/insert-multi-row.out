@@ -1,0 +1,9 @@
+3 rows inserted.
+
+COUNTRY_CODE    COUNTRY_NAME
+_______________ _______________
+EG              Egypt
+ES              Spain
+MX              Mexico
+
+Rollback complete.

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<airports>
+ <airport>
+  <code>BLR</code>
+  <city>Bengaluru</city>
+  <IS_HUB>FALSE</IS_HUB>
+ </airport>
+ <airport>
+  <code>BOM</code>
+  <city>Mumbai</city>
+  <IS_HUB>FALSE</IS_HUB>
+ </airport>
+</airports>
+
+rows: 2
+
+PL/SQL procedure successfully completed.

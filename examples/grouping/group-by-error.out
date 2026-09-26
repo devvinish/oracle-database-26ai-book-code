@@ -1,0 +1,7 @@
+Error starting at line : 1
+In command -
+select department_id, last_name, count(*) from employees group by department_id
+Error at Command Line : 1 Column : 23
+Error report -
+SQL Error: ORA-00979: "LAST_NAME": must appear in the GROUP BY clause or be used in an
+aggregate function

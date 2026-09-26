@@ -1,0 +1,3 @@
+CUSTOMER          LEVENSHTEIN    JARO_WINKLER    TRIGRAM    EDITS
+______________ ______________ _______________ __________ ________
+Neha Müller                72              80         20        2

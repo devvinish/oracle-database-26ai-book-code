@@ -1,0 +1,11 @@
+   DEPARTMENT_ID LAST_NAME       SALARY    DEPT_PAYROLL    PCT_OF_DEPT
+________________ ____________ _________ _______________ ______________
+              50 Mehta            33000           65600           50.3
+              50 Reddy            15500           65600           23.6
+              50 Williams          8800           65600           13.4
+              50 Schmidt           8300           65600           12.7
+              60 Okafor           29000           47600           60.9
+              60 Costa            11200           47600           23.5
+              60 Mensah            7400           47600           15.5
+
+7 rows selected.

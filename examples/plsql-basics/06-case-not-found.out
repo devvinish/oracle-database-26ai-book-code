@@ -1,0 +1,5 @@
+begin
+*
+ERROR at line 1:
+ORA-06592: CASE not found while executing CASE statement
+ORA-06512: at line 4

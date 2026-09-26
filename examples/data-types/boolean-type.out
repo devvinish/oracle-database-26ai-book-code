@@ -1,0 +1,15 @@
+Table FLAGS created.
+
+5 rows inserted.
+
+NAME             ACTIVE    NEGATED    STATE
+________________ _________ __________ ________
+upgrade offer    true      false      on
+wifi promo       false     true       off
+unknown                               ?
+from text        true      false      on
+from number      false     true       off
+
+   ACTIVE_FLAGS
+_______________
+              2

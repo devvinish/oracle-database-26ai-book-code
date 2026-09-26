@@ -1,0 +1,5 @@
+INDEX_NAME                 BLEVEL    LEAF_BLOCKS    DISTINCT_KEYS    CLUSTERING_FACTOR    NUM_ROWS
+_______________________ _________ ______________ ________________ ____________________ ___________
+FLIGHTS_DEPARTURE_IX            1              7             2781                   37        2856
+FLIGHTS_PK                      1              5             2856                   37        2856
+FLIGHTS_ROUTE_IX                1              8               50                 1655        2856

@@ -1,0 +1,3 @@
+SESSION_USER    CONTAINER    SERVICE     DB_NAME
+_______________ ____________ ___________ ___________
+NIMBUS          FREEPDB1     freepdb1    FREEPDB1

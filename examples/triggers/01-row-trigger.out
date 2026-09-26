@@ -1,0 +1,12 @@
+Trigger EMPLOYEES_SALARY_TRG compiled
+
+4 rows updated.
+
+   EMPLOYEE_ID    OLD_SALARY    NEW_SALARY CHANGED_BY
+______________ _____________ _____________ _____________
+           103         33000         36300 NIMBUS
+           160         15500         17050 NIMBUS
+           161          8800          9680 NIMBUS
+           162          8300          9130 NIMBUS
+
+Rollback complete.

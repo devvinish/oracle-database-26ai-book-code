@@ -1,0 +1,14 @@
+   DEPARTMENT_ID LAST_NAME       SALARY
+________________ ____________ _________
+              10 Haddad           48000
+              20 Clarke           27000
+              30 Rahman           22000
+              40 Evans            34000
+              50 Mehta            33000
+              60 Okafor           29000
+              70 Fernández        23000
+              80 Smith            15800
+              90 Chen             12000
+             100 Nguyen           21500
+
+10 rows selected.

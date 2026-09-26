@@ -1,0 +1,5 @@
+tokens: NIMBUS | Booking API | ADD_TICKET | LOOPBACK
+resolved: NIMBUS.FLIGHTS (type 2)
+canonical: "NIMBUS"."Flights"
+
+PL/SQL procedure successfully completed.

@@ -1,0 +1,9 @@
+DBTIMEZONE    SESSIONTIMEZONE
+_____________ __________________
++00:00        UTC
+
+Session altered.
+
+SESSIONTIMEZONE    CURRENT_TIMESTAMP                    LOCALTIMESTAMP          SYSDATE_TIME
+__________________ ____________________________________ _______________________ _______________
+Asia/Kolkata       27-SEP-2026 01:01:39 ASIA/KOLKATA    27-SEP-2026 01:01:39    19:31

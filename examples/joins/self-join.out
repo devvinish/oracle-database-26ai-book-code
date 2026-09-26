@@ -1,0 +1,6 @@
+EMPLOYEE            JOB_TITLE                  MANAGER
+___________________ __________________________ _______________
+Layla Haddad        Chief Executive Officer
+Omar Al Mansoori    Chief Operating Officer    Layla Haddad
+Kenji Sato          Chief Pilot                James Clarke
+Hugo Dubois         Captain                    Kenji Sato

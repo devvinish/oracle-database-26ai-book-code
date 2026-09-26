@@ -1,0 +1,11 @@
+Function NIMBUS.FX_RATE compiled
+
+OBJECT_NAME    OBJECT_TYPE    STATUS
+______________ ______________ __________
+FARE_IN_AED    FUNCTION       INVALID
+
+PL/SQL procedure successfully completed.
+
+OBJECT_NAME    OBJECT_TYPE    STATUS
+______________ ______________ _________
+FARE_IN_AED    FUNCTION       VALID

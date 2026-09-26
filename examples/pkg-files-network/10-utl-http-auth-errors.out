@@ -1,0 +1,6 @@
+200: {"date":"2026-03-15","flights":31,"on_time_pct":87.1}
+after redirect: {"flight":"NM150","status":"ON TIME","gate":"B12","departs":"2026-03-15T22:10:00+13:00"}
+without credentials: {"error":"authentication required"}
+ORA-24247: network access denied by access control list (ACL)
+
+PL/SQL procedure successfully completed.

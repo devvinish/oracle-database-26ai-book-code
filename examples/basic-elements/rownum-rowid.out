@@ -1,0 +1,11 @@
+   ROWNUM AIRPORT_CODE    CITY
+_________ _______________ _________
+        1 DXB             Dubai
+        2 LHR             London
+        3 CDG             Paris
+
+   ROWNUM AIRPORT_CODE       ELEVATION_FT
+_________ _______________ _______________
+        1 JNB                        5558
+        2 NBO                        5327
+        3 KTM                        4390

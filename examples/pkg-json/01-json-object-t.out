@@ -1,0 +1,8 @@
+flight NM150, delay 0, captain Rao
+  flight: "NM150" (SCALAR)
+  gate: "B12" (SCALAR)
+  delay: 45 (SCALAR)
+  boarding: true (SCALAR)
+{"flight":"NM150","gate":"B12","delay":45,"boarding":true}
+
+PL/SQL procedure successfully completed.

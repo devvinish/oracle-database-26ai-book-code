@@ -1,0 +1,16 @@
+LAST_NAME       COMMISSION_PCT
+____________ _________________
+Gupta                     0.12
+Tanaka                    0.12
+Johnson                    0.1
+
+LAST_NAME       COMMISSION_PCT
+____________ _________________
+Gupta                     0.12
+Tanaka                    0.12
+Johnson                    0.1
+Hussain                    0.1
+
+   ROWS_IN_5_PERCENT
+____________________
+                 143

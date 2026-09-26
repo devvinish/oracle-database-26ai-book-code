@@ -1,0 +1,7 @@
+Table ROUTE_SUMMARY created.
+
+ORIGIN       ROUTES    LONGEST_KM
+_________ _________ _____________
+DXB              20         14200
+SIN               3          6294
+SYD               3         12043

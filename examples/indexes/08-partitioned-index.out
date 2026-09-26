@@ -1,0 +1,8 @@
+Index FLIGHT_LOG_STATUS_IX created.
+
+Index FLIGHT_LOG_ID_IX created.
+
+INDEX_NAME              PARTITIONED    LOCALITY       PARTITION_COUNT
+_______________________ ______________ ___________ __________________
+FLIGHT_LOG_STATUS_IX    YES            LOCAL                  1048575
+FLIGHT_LOG_ID_IX        NO

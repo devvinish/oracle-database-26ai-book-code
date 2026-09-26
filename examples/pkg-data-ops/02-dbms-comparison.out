@@ -1,0 +1,19 @@
+Table ROUTES_COPY created.
+
+Table ROUTES_COPY altered.
+
+2 rows updated.
+
+1 row deleted.
+
+Commit complete.
+
+identical? no
+
+PL/SQL procedure successfully completed.
+
+ROUTE_ID    IN_ROUTES    IN_COPY    STATUS
+___________ ____________ __________ _________
+3           true         true       DIF
+7           true         true       DIF
+12          true         false      DIF

@@ -1,0 +1,10 @@
+STATUS       CABIN          TICKETS        FARES
+____________ ___________ __________ ____________
+CANCELLED    BUSINESS            18     50245.14
+CANCELLED    ECONOMY             35     23218.59
+COMPLETED    BUSINESS           180    410381.36
+COMPLETED    ECONOMY            563    351704.41
+CONFIRMED    BUSINESS            72    157719.29
+CONFIRMED    ECONOMY            201    137509.86
+
+6 rows selected.

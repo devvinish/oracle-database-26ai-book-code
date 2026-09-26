@@ -1,0 +1,24 @@
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+Table FARE_RULES altered.
+
+COLUMN_NAME                   DATA_TYPE       DATA_LENGTH HIDDEN_COLUMN
+_____________________________ ____________ ______________ ________________
+RULE_ID                       NUMBER                   22 NO
+ROUTE_ID                      NUMBER                   22 NO
+CABIN                         VARCHAR2                  8 NO
+VALID_FROM                    DATE                      7 NO
+VALID_TO                      DATE                      7 NO
+BASE_FARE                     NUMBER                   22 NO
+REMARKS                       VARCHAR2                500 NO
+FARE_WITH_TAX                 NUMBER                   22 NO
+CURRENCY_CODE                 CHAR                      3 NO
+SYS_C00007_26092619:36:59$    BOOLEAN                   1 YES
+
+10 rows selected.

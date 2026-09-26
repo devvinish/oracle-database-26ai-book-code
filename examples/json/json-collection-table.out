@@ -1,0 +1,18 @@
+JSON collection table TRAVEL_NOTES created.
+
+1 row inserted.
+
+1 row inserted.
+
+DOC
+________________________________________________________________________________________________
+{"_id":"6ab81d1eae08d52d9e5b86be","customer":1,"note":"Prefers window seat on night flights"}
+{"_id":"6ab81d1eae08d52d9e5b86c1","customer":2,"note":"Travels with a guide dog"}
+
+NEW_OID                     NEW_UUID
+___________________________ ___________________________________
+6AB81D1FAE08D52D9E5B86C4    4C9CD803B57F456A8492197D0858A12B
+
+CUSTOMER    NOTE
+___________ _____________________________
+2           "Travels with a guide dog"

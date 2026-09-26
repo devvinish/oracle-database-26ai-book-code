@@ -1,0 +1,3 @@
+SELECT COUNT(*) "COUNT(*)" FROM  (SELECT "A2"."ORIGIN" "ORIGIN" FROM "NIMBUS"."ROUTES" "A2" WHERE "A2"."DISTANCE_KM">10000) "A1" WHERE "A1"."ORIGIN"='DXB'
+
+PL/SQL procedure successfully completed.

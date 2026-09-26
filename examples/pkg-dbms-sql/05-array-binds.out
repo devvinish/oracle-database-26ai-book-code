@@ -1,0 +1,9 @@
+3 rows inserted
+
+PL/SQL procedure successfully completed.
+
+   FLIGHT_ID GATE
+____________ _______
+        2800 A1
+        2801 B7
+        2802 C3

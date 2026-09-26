@@ -1,0 +1,15 @@
+Procedure LOG_ACTIVITY compiled
+
+1 row updated.
+
+PL/SQL procedure successfully completed.
+
+Rollback complete.
+
+MESSAGE
+___________________________________
+Tried to double the CEO's salary
+
+   SALARY
+_________
+    48000

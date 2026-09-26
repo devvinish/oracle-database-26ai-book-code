@@ -1,0 +1,7 @@
+BOOKING_REF    CUSTOMER            STATUS          TOTAL_AMOUNT TIER
+______________ ___________________ ____________ _______________ _______
+YGUBKG         Isabella Hussain    COMPLETED             429.73
+
+   TICKET_ID FLIGHT_NO    CABIN      SEAT_NO         FARE CHECKED_IN
+____________ ____________ __________ __________ _________ _____________
+         155 NM107        ECONOMY    28C           429.73 true

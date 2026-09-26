@@ -1,0 +1,6 @@
+4 elements, the last "more to come"
+  0: {"code":"BLR","city":"Bengaluru"}
+  1: {"code":"BOM","city":"Mumbai"}
+  2: {"code":"DEL","city":"Delhi"}
+
+PL/SQL procedure successfully completed.

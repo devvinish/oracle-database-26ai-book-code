@@ -1,0 +1,9 @@
+PL/SQL procedure successfully completed.
+
+MESSAGE
+_____________________
+20 routes from DXB
+
+JOB_NAME      PROGRAM_NAME    SCHEDULE_NAME       STATE        NEXT_RUN_DATE
+_____________ _______________ ___________________ ____________ __________________________________
+ROUTES_DXB    ROUTE_COUNT     EVERY_MONDAY_6AM    SCHEDULED    04-JAN-2027 06:00:00 ASIA/DUBAI

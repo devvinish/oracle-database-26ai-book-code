@@ -1,0 +1,9 @@
+PL/SQL procedure successfully completed.
+
+   GOOD    BAD
+_______ ______
+      1      0
+
+SCHEMA_URL                        LOCAL
+_________________________________ ________
+http://nimbus.example/gate.xsd    YES

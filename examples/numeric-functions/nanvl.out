@@ -1,0 +1,5 @@
+X           NAN_AS_ZERO    KIND
+___________ ______________ ___________
+NaN         0.0            NaN
+Infinity    Infinity       Infinite
+2.5         2.5            number

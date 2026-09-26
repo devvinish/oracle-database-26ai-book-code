@@ -1,0 +1,22 @@
+PL/SQL procedure successfully completed.
+
+STALE_PERCENT    DATABASE_DEFAULT
+________________ ___________________
+5                10
+
+STATTYPE_LOCKED
+__________________
+ALL
+
+BEGIN dbms_stats.gather_table_stats(user, 'FLIGHT_COPY'); END;
+*
+ERROR at line 1:
+ORA-20005: object statistics are locked (stattype = ALL)
+ORA-06512: at "SYS.DBMS_STATS", line 45301
+ORA-06512: at "SYS.DBMS_STATS", line 44675
+ORA-06512: at "SYS.DBMS_STATS", line 9279
+ORA-06512: at "SYS.DBMS_STATS", line 10408
+ORA-06512: at "SYS.DBMS_STATS", line 43815
+ORA-06512: at "SYS.DBMS_STATS", line 44823
+ORA-06512: at "SYS.DBMS_STATS", line 45282
+ORA-06512: at line 1

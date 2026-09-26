@@ -1,0 +1,9 @@
+View FLIGHT_BOARD dropped.
+
+View DEPARTMENT_PAY dropped.
+
+View SALES_STAFF dropped.
+
+View PUBLIC_FARES dropped.
+
+Materialized view ROUTE_REVENUE_MV dropped.

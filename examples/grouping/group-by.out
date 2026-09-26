@@ -1,0 +1,13 @@
+ORIGIN       ROUTES    AVG_KM
+_________ _________ _________
+DXB              20      7294
+SIN               3      5832
+SYD               3      6832
+AKL               2      8180
+BOM               2      1532
+DEL               2      1660
+JFK               2      8271
+LHR               2      5519
+NRT               2      6669
+
+9 rows selected.

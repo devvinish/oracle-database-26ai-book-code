@@ -1,0 +1,12 @@
+Session altered.
+
+Procedure SHOW_MODE compiled
+
+procedure show_mode is
+begin
+
+    dbms_output.put_line('release');
+
+end;
+
+PL/SQL procedure successfully completed.

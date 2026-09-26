@@ -1,0 +1,7 @@
+Index BOOKINGS_BOOKED_IX dropped.
+
+Index CUSTOMERS_LAST_NAME_UPPER_IX dropped.
+
+Index CUSTOMERS_TIER_IX dropped.
+
+Index TICKETS_FLIGHT_SEAT_UX dropped.

@@ -1,0 +1,18 @@
+Index CUSTOMERS_LOYALTY_SX created.
+
+   CUSTOMER_ID TIER
+______________ ___________
+             6 Gold
+            15 Gold
+            40 Gold
+            43 Blue
+            44 Blue
+            61 Blue
+            83 Blue
+            91 Gold
+            98 Gold
+           102 Platinum
+           113 Blue
+           115 Platinum
+
+12 rows selected.

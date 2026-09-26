@@ -1,0 +1,20 @@
+PATCHED
+__________________________________
+{
+  "memberId" : "NM100037",
+  "tier" : "Platinum",
+  "points" : 3296,
+  "memberSince" : "2021-08-17",
+  "preferences" :
+  {
+    "seat" : "aisle",
+    "newsletter" : true
+  },
+  "favoriteAirports" :
+  [
+    "CDG",
+    "JNB",
+    "NBO"
+  ],
+  "vip" : true
+}

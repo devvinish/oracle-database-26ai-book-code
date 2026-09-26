@@ -1,0 +1,10 @@
+   EMPLOYEE_ID FIRST_NAME       COMMISSION_PCT
+______________ _____________ _________________
+           102 Charlotte
+           150 Arjun
+           151 Olivia                     0.05
+           152 Mohammed                   0.05
+           153 Priya                      0.05
+           158 Isabella
+
+6 rows selected.

@@ -1,0 +1,10 @@
+   SID    SERIAL# USERNAME    PROGRAM    STATUS
+______ __________ ___________ __________ _________
+    70      45431 NIMBUS      SQLcl      ACTIVE
+
+NAME               VALUE
+__________________ ___________
+compatible         23.6.0
+db_name            FREE
+max_string_size    STANDARD
+undo_retention     900

@@ -1,0 +1,35 @@
+   TICKETS
+__________
+         8
+
+PLAN_TABLE_OUTPUT
+__________________________________________________________________________________
+EXPLAINED SQL STATEMENT:
+------------------------
+select /*+ gather_plan_statistics */ count(*) as tickets from   tickets
+t join flights f on f.flight_id = t.flight_id where  f.status =
+'CANCELLED'
+
+Plan hash value: 1892020674
+
+-------------------------------------------------------------------------------
+| Id  | Operation              | Name              | Starts | E-Rows | A-Rows |
+-------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT       |                   |      1 |        |      1 |
+|   1 |  SORT AGGREGATE        |                   |      1 |      1 |      1 |
+|*  2 |   HASH JOIN            |                   |      1 |   1069 |      8 |
+|*  3 |    TABLE ACCESS FULL   | FLIGHTS           |      1 |    952 |     50 |
+|   4 |    INDEX FAST FULL SCAN| TICKETS_FLIGHT_IX |      1 |   1069 |   1069 |
+-------------------------------------------------------------------------------
+
+Predicate Information (identified by operation id):
+---------------------------------------------------
+
+   2 - access("F"."FLIGHT_ID"="T"."FLIGHT_ID")
+   3 - filter("F"."STATUS"='CANCELLED')
+
+Note
+-----
+   - this is an adaptive plan
+
+28 rows selected.

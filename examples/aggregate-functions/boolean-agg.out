@@ -1,0 +1,6 @@
+BOOKING_REF       TICKETS ALL_CHECKED_IN    ANY_CHECKED_IN    ALL_BUSINESS
+______________ __________ _________________ _________________ _______________
+N3N8PB                  1 true              true              false
+5HDV2D                  2 true              true              false
+HQ89SX                  2 false             false             true
+QVCKBC                  1 false             false             true

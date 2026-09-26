@@ -1,0 +1,11 @@
+ELEVATION_LIST        BAR
+_____________________ __________
+Dubai.......    62    *
+Delhi.......   777    **
+Bengaluru...  3002    ****
+Nairobi.....  5327    ******
+Johannesburg  5558    *******
+
+PADDED      CUT
+___________ ______
+00000100    N

@@ -1,0 +1,16 @@
+   DICTIONARY_VIEWS
+___________________
+               5833
+
+TABLE_NAME                    COMMENTS
+_____________________________ ______________________________________________________________
+USER_TABLES                   Description of the user's own relational tables
+USER_TABLESPACES              Description of accessible tablespaces
+USER_TABLE_ACCESS_STATS
+USER_TABLE_VIRTUAL_COLUMNS    Comments on the virtual columns in tables owned by the user
+USER_TAB_COLS                 Columns of user's tables, views and clusters
+USER_TAB_COLS_V$
+USER_TAB_COLUMNS              Columns of user's tables, views and clusters
+USER_TAB_COL_STATISTICS       Columns of user's tables, views and clusters
+
+8 rows selected.

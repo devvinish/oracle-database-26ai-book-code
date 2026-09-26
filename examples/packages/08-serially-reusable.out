@@ -1,0 +1,9 @@
+Package REQUEST_COUNTER compiled
+
+first call: 1
+
+PL/SQL procedure successfully completed.
+
+second call: 1
+
+PL/SQL procedure successfully completed.

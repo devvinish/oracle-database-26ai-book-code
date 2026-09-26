@@ -1,0 +1,7 @@
+1 row inserted.
+
+   CUSTOMER_ID FIRST_NAME    LAST_NAME    JOINED_ON      LOYALTY
+______________ _____________ ____________ ______________ __________
+           121 Maya          Pillai       26-SEP-2026
+
+Rollback complete.

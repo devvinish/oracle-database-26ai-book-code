@@ -1,0 +1,12 @@
+CITY               ELEVATION_M
+_______________ ______________
+Johannesburg         1694.0784
+Nairobi              1623.6696
+Kathmandu             1338.072
+
+CITY         COUNTRY_CODE
+____________ _______________
+Dubai        AE
+Sydney       AU
+São Paulo    BR
+Toronto      CA

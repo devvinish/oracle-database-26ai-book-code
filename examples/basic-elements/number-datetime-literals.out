@@ -1,0 +1,11 @@
+   INTEGER_LITERAL    DECIMAL_LITERAL    SCIENTIFIC BINARY_FLOAT    BINARY_DOUBLE
+__________________ __________________ _____________ _______________ ________________
+                42              -3.75          2500 1.5             1.5
+
+DATE_LITERAL    TS_LITERAL              TSTZ_LITERAL
+_______________ _______________________ __________________________________
+15-MAR-2026     15-MAR-2026 08:30:00    15-MAR-2026 08:30:00 ASIA/DUBAI
+
+INTERVAL_LITERAL       BOOLEAN_LITERAL
+______________________ __________________
++00 04:00:00.000000    true

@@ -1,0 +1,15 @@
+'DXB'
+'O''Hare'
+"FLIGHTS"
+Flight_Log
+nimbus.flights@loopback
+NIMBUS
+routes
+anything, unchecked
+
+begin
+*
+ERROR at line 1:
+ORA-44003: invalid SQL name
+ORA-06512: at "SYS.DBMS_ASSERT", line 192
+ORA-06512: at line 10

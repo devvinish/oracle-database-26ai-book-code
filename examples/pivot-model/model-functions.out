@@ -1,0 +1,10 @@
+CABIN       MEASURE         VALUE
+___________ ___________ _________
+BUSINESS    AVG_FARE         2290
+BUSINESS    REVENUE        618300
+BUSINESS    TICKETS           270
+ECONOMY     AVG_FARE          641
+ECONOMY     REVENUE        512159
+ECONOMY     TICKETS           799
+
+6 rows selected.

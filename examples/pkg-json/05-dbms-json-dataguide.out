@@ -1,0 +1,23 @@
+Index CUSTOMERS_LOYALTY_SX created.
+
+PL/SQL procedure successfully completed.
+
+COLUMN_NAME            DATA_TYPE
+______________________ ____________
+LOYALTY$tier           VARCHAR2
+LOYALTY$points         NUMBER
+LOYALTY$memberId       VARCHAR2
+LOYALTY$memberSince    VARCHAR2
+LOYALTY$meal           VARCHAR2
+LOYALTY$seat           VARCHAR2
+LOYALTY$newsletter     VARCHAR2
+LOYALTY$string         VARCHAR2
+
+8 rows selected.
+
+   CUSTOMER_ID TIER       POINTS FAVOURITE
+______________ _______ _________ ____________
+             1 Blue         3296 CDG
+             1 Blue         3296 JNB
+             1 Blue         3296 NBO
+             2 Blue         7823 SYD

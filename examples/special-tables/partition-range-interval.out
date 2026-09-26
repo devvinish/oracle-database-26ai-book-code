@@ -1,0 +1,15 @@
+Table FLIGHT_LOG created.
+
+2,856 rows inserted.
+
+Commit complete.
+
+PL/SQL procedure successfully completed.
+
+PARTITION_NAME    INTERVAL       NUM_ROWS
+_________________ ___________ ___________
+P_BEFORE_2026     NO                    5
+SYS_P1638         YES                 981
+SYS_P1639         YES                 888
+SYS_P1640         YES                 981
+SYS_P1641         YES                   1
