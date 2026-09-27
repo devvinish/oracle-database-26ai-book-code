@@ -1,6 +1,6 @@
 # Oracle Database 26ai SQL and PL/SQL: The Complete Developer's Guide
 
-The example code of the book **Oracle Database 26ai SQL and PL/SQL: The Complete Developer's Guide** by Vinish Kapoor — 672 examples,
+The example code of the book **Oracle Database 26ai SQL and PL/SQL: The Complete Developer's Guide** by Vinish Kapoor — 677 examples,
 each with the output it produced in Oracle AI Database 26ai Free (release 23.26), and the scripts
 that install the book's sample schema, **Nimbus Air**, a fictional airline.
 
@@ -25,6 +25,10 @@ Chapter 5 of the book describes the steps. In short, with the container of Chapt
    `docker exec db26ai mkdir -p /opt/oracle/nimbus_files`, then
    `docker cp setup/nimbus/files/. db26ai:/opt/oracle/nimbus_files/`.
 3. Connect as NIMBUS and run `setup/nimbus/install.sql` from the `setup/nimbus` folder.
+4. For the embedding examples of Chapters 21 and 61, download Oracle's prebuilt
+   `all_MiniLM_L12_v2_augmented.zip` (linked from the *AI Vector Search User's Guide*), unzip it,
+   and copy `all_MiniLM_L12_v2.onnx` to the same folder as the sample files. The example
+   `vectors/11-load-onnx-model.sql` loads it.
 
 ## Running the Examples
 
@@ -81,7 +85,7 @@ timings — and differs from the book's (Chapter 1 lists the cases).
 | 18. Property Graphs and SQL/PGQ | [`property-graphs`](examples/property-graphs) (7) |
 | 19. JSON in SQL | [`json`](examples/json) (20) |
 | 20. XML in SQL | [`xml`](examples/xml) (10) |
-| 21. AI Vector Search | [`vectors`](examples/vectors) (10) |
+| 21. AI Vector Search | [`vectors`](examples/vectors) (13) |
 
 ### Part IV — SQL Functions Reference
 
@@ -146,7 +150,7 @@ timings — and differs from the book's (Chapter 1 lists the cases).
 | 58. Metadata and Code Management | [`pkg-metadata`](examples/pkg-metadata) (5) |
 | 59. JSON and SODA in PL/SQL | [`pkg-json`](examples/pkg-json) (7) |
 | 60. XML in PL/SQL | [`pkg-xml`](examples/pkg-xml) (5) |
-| 61. Vector, Search, and Text Packages | [`pkg-vector-text`](examples/pkg-vector-text) (7) |
+| 61. Vector, Search, and Text Packages | [`pkg-vector-text`](examples/pkg-vector-text) (9) |
 | 62. DBMS_MLE | [`pkg-mle`](examples/pkg-mle) (3) |
 | 63. Flashback, Comparison, Redefinition, and Parallel Execution | [`pkg-data-ops`](examples/pkg-data-ops) (6) |
 | 64. Performance Packages | [`pkg-performance`](examples/pkg-performance) (9) |

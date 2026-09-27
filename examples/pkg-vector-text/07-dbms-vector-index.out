@@ -7,8 +7,8 @@ _____________________ _____________ __________________________
 AIRPORT_POINTS_IVF    VECTOR        NEIGHBOR_PARTITIONS_IVF
 
 REPORT
-__________________________________________________________________________________
-Accuracy achieved (100%) is 10% higher than the Target Accuracy requested (90%)
+________________________________________________________________________________
+Accuracy achieved (20%) is 70% lower than the Target Accuracy requested (90%)
 
 REPORT
 _____________________________________________________________

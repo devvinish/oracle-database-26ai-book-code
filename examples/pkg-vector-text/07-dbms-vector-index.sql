@@ -42,5 +42,3 @@ select dbms_vector.index_accuracy_query(
          query_param => json('{"neighbor partition probes": 4}')) as report
 from   dual;
 -- @cleanup drop table if exists airport_points purge
--- @cleanup drop table if exists travel_notes purge
--- @cleanup begin ctx_ddl.drop_preference('NIMBUS_LEXER'); end;

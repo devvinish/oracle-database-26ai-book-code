@@ -1,0 +1,11 @@
+Table REVIEW_SENTENCES created.
+
+SENTENCE                                                                DISTANCE
+____________________________________________________________________ ___________
+Wi-Fi did not work for the whole flight.                                   0.585
+The flight was delayed by over two hours with little information.          0.732
+
+SENTENCE                                                                DISTANCE
+____________________________________________________________________ ___________
+We left on time and even arrived fifteen minutes early.                    0.322
+The flight was delayed by over two hours with little information.          0.729

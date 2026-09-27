@@ -1,0 +1,5 @@
+PL/SQL procedure successfully completed.
+
+MODEL_NAME           MINING_FUNCTION    ALGORITHM
+____________________ __________________ ____________
+ALL_MINILM_L12_V2    EMBEDDING          ONNX
