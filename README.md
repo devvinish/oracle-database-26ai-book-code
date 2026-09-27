@@ -4,6 +4,12 @@ The example code of the book **Oracle Database 26ai SQL and PL/SQL: The Complete
 each with the output it produced in Oracle AI Database 26ai Free (release 23.26), and the scripts
 that install the book's sample schema, **Nimbus Air**, a fictional airline.
 
+## The Book
+
+- **Book page:** [vinish.dev/oracle-database-26ai-sql-plsql-book](https://vinish.dev/oracle-database-26ai-sql-plsql-book) — what the book covers, sample pages, and the table of contents
+- **Paperback** on Amazon: [amazon.com/dp/B0HL5Z7LSK](https://www.amazon.com/dp/B0HL5Z7LSK) — 700 pages, 7.5 x 9.25 in, ISBN 9798177170534
+- **Kindle edition** on Amazon: [amazon.com/dp/B0HL5ZNRFT](https://www.amazon.com/dp/B0HL5ZNRFT)
+
 ## Contents
 
 - `setup/nimbus/` — the NIMBUS schema: `create-user.sql` (run as a DBA), `install.sql` (run as
